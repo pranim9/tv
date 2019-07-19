@@ -1,1355 +1,305 @@
 #EXTM3U
 #EXTINF:0,, group-title="Tamil", Star Vijay
 http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
-#EXTINF:0,, group-title="Tamil", Jaya TV HD
-https://msluk6s.akamaized.net/hls/live/2000171/jayatvmsl/jayatv_2000/chunklist.m3u8
-#EXTINF:0,, group-title="Tamil", Jaya Movie
-https://msluk6s.akamaized.net/hls/live/2000171/jayamoviesmsl/jayamovies_2000/chunklist.m3u8
-#EXTINF:0,, group-title="Tamil", Siripoli
-https://yuppmob4msl.akamaized.net/hls/live/2003641/siripolimsl/siripoli_1800/chunklist.m3u8
+
+#EXTINF:0,, group-title="Tamil", Aditya TV
+https://msluk7s.akamaized.net/hls/live/2000172/adityatvmsl/adityatv_2000/chunklist.m3u8
+
+#EXTINF:0,, group-title="Tamil", Jaffna TV
+http://59d39900ebfb8.streamlock.net:1935/Jaffnatv/Jaffnatv/index.m3u8
+
 #EXTINF:0,, group-title="Tamil", Kalaignar
 https://acv.asianetmobiletvplus.com/channels/kalaignartv_czdxzllrwvzueajklabzwgwbwkxzsvky/chunklist.m3u8
-#EXTINF:0,, group-title="Tamil", Murasu TV
-https://acv.asianetmobiletvplus.com/channels/murasu_lvdtuywsqtouxjyahchfgkstxkllroel/chunklist.m3u8
+
 #EXTINF:0,, group-title="Tamil",TTD TAMIL
 http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,, group-title="Tamil",Astro Vaanavil
 http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
-#EXTINF:0,, group-title="Tamil",Shakthi TV
-https://yuppmob5msl.akamaized.net/hls/live/2003661/shakthitvmsl/shakthitv_1800/chunklist.m3u8
+
 #EXTINF:0,, group-title="Tamil",DAN TamiOli TV
 http://askmedia.livebox.co.in/TamilOlihls/tamiloli.m3u8
+
 #EXTINF:0,, group-title="Tamil",DAN Music Tamil
 http://askmedia.livebox.co.in/DANMusichls/danmusic.m3u8
+
 #EXTINF:0,, group-title="Tamil",DAN News
 http://askmedia.livebox.co.in/DANNewshls/dannews.m3u8
+
 #EXTINF:0,, group-title="Tamil",Ohm Tv
 http://askmedia.livebox.co.in/OhmTVhls/ohmtv.m3u8
-#EXTINF:0,, group-title="Tamil",Kalvi Tamil TV
-http://askmedia.livebox.co.in/KalviTV1hls/kalvitv1.m3u8
+
 #EXTINF:0,, group-title="Tamil",Aathavan HD
 http://81.24.198.44/AthavanTR/tracks-v1a1/index.m3u8
+
 #EXTINF:0,, group-title="Tamil",Aathavan Music HD
 http://81.24.198.44/A-MI/tracks-v1a1/index.m3u8
+
 #EXTINF:0,, group-title="Tamil",Aathavan Classic HD
 http://81.24.198.44/A-HI/tracks-v1a1/index.m3u8
+
 #EXTINF:0,, group-title="Tamil",Tamil Movie Classics
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/index.m3u8
+
 #EXTINF:0,, group-title="Tamil",KBO Tamil Classics
 https://msleurope2s.akamaized.net/hls/live/2000183/kboclassicmsl/kboclassic_1800/chunklist.m3u8
-#EXTINF:0,, group-title="Tamil",ZEE TAMIL US
-https://msluscens.akamaized.net/hls/live/2000126/zeetamilusmsl/zeetamilus_1800/chunklist.m3u8
+
 #EXTINF:0,, group-title="Tamil", Canada EETTV
 http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+
 #EXTINF:0,, group-title="Tamil",Eet TV
 https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:0,, group-title="Tamil", Canada Tamils
-http://live.streamjo.com:1935/cctv/live/playlist.m3u8
-#EXTINF:0,, group-title="Tamil", Engada Tv
-http://live.streamjo.com:1935/eetlive/engadatv/playlist.m3u8
-#EXTINF:0,, group-title="Tamil", Meenakshi TV
-rtmp://bmlive.net:1936/menakshi/menakshitv
+
 #EXTINF:0,, group-title="Tamil", Dheeran TV
 http://acv.asianetmobiletvplus.com/channels/dheerantv_hjykdbbkxbzqjhwiilxdziveskvmspkt/chunklist.m3u8
+
 #EXTINF:0,, group-title="Tamil", Vasantham Tv
 http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
+
 #EXTINF:0,, group-title="Tamil", Vasantham Singapore
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+
 #EXTINF:0,,group-title="Tamil",IBC Tamil
 https://ibctamil-live.ibctamil.com/transcode/ibctamil_mid.m3u8
+
 #EXTINF:0,,group-title="Tamil",IBC Bhakthi
 https://ibcbakthi-origin.ibctamil.com/transcode/ibcbakthi_mid.m3u8
+
 #EXTINF:0,,group-title="Tamil",IBC Tamil Comedy 1
 https://59299831b66d0.streamlock.net/ibc-comedy/smil:ibccomedy.smil/index.m3u8
+
 #EXTINF:0,,group-title="Tamil",IBC Tamil Comedy 2
 https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_mid.m3u8
+
 #EXTINF:0,,group-title="Tamil",IBC Tamil Music 1
 https://59299831b66d0.streamlock.net/ibc-music/smil:ibcmusic.smil/index.m3u8
-#EXTINF:0,,group-title="Tamil",IBC Tamil Music 2
-https://ibcmusic-origin.ibctamil.com/transcode/ibcmusic_mid.m3u8
+
 #EXTINF:0,,group-title="Tamil",IBC Mazhalai 1
 https://msleurope2s.akamaized.net/hls/live/2000183/ibcmazhalai/ibcmazhalai_600/chunklist.m3u8
+
 #EXTINF:0,,group-title="Tamil",IBC Mazhalai 2
 https://ibckids-origin.ibctamil.com/transcode/ibckids_mid.m3u8
+
 #EXTINF:0,,group-title="Tamil",IBC Tamil Events
 https://ibcevent-live.ibctamil.com/transcode/ibcevent_mid.m3u8
+
 #EXTINF:0,, group-title="Tamil",Ragam TV Tamil
 http://account11.livebox.co.in/ntvhls/ntv.m3u8
-#EXTINF:0,, group-title="Tamil",Tami MTV 
+
+#EXTINF:0,, group-title="Tamil",Prime Tamil TV
+http://primevisualss.livebox.co.in/primetamilhls/live.m3u8
+
+#EXTINF:0,, group-title="Tamil",Tami MTV
 http://santhora.de.flash.glb.ipercast.net/santhora.de-live/tamilmtv/tamilmtv/chunklist.m3u8
+
 #EXTINF:0,, group-title="Tamil",Tamil Vathanam
 http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
+
 #EXTINF:0,,group-title="Tamil",AKARAM TV
 http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
+
 #EXTINF:0,,group-title="Tamil",AKARAM MIX TV
 http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+
 #EXTINF:0,,group-title="Tamil",AKARAM MIX HD
 http://akaram.zecast.net/akaram-live/akarammix1/index.m3u8
+
 #EXTINF:0,,group-title="Tamil",AKARAM Gallata TV
 http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+
 #EXTINF:0,,group-title="Tamil",AKARAM Gallata HD
 http://akaram.zecast.net/akaram-live/akaramgalatta1/index.m3u8
+
 #EXTINF:0,,group-title="Tamil",AKARAM KIDZ TV
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:0,,group-title="Tamil",Deepam TV
-http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
+
 #EXTINF:0,,group-title="Tamil",TVI tv
 http://live.tamilvision.tv:8081/TVI/HD/chunks.m3u8
-#EXTINF:0,,group-title="Tamil",Tamilan24
-http://45.79.203.234:1935/tamilan24/myStream/chunklist.m3u8
-#EXTINF:0,,group-title="Tamil",Swasthik TV HD
-rtmp://flash5.chennaistream.net/swasthiktv/_definst_/mp4:swasthiktvlive
+
 #EXTINF:0,,group-title="Tamil",MadhiMugam TV
 http://f2.vstream.online:1935/mmtv/ngrp:mmtv_all/index.m3u8
+
 #EXTINF:0,,group-title="Tamil",IBC Bakthi
 https://59299831b66d0.streamlock.net/ibc-bakthi/smil:ibcbakthi.smil/index.m3u8
+
 #EXTINF:0,, group-title="Tamil",Vendharm TV
 http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
+
 #EXTINF:0,, group-title="Tamil",Vendhar TV
 http://45.79.203.234:1935/vendharm/myStream/playlist.m3u8
+
 #EXTINF:0,, group-title="Tamil",Vanavil Plus TV
 http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+
 #EXTINF:0,, group-title="Tamil",Vanavil TV
 http://jkzqgw3zrm9o-hls-live.wmncdn.net/969/vaanaviltv/live.stream/tracks-v1a1/index.m3u8
+
 #EXTINF:0,,group-title="Tamil",PEPPERS TV
 http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
-#EXTINF:0,,group-title="Tamil",IMAYAM TV
-rtmp://103.212.204.17:1935/live/imayamtv
-#EXTINF:0,,group-title="Tamil",IMAYAM TV 2
-http://d2y6ekwadkc8z7.cloudfront.net/multitvcdn/smil:ImayamTV.smil/index.m3u8
+
 #EXTINF:0,, group-title="Tamil", Thirumalai HD
 http://abcmedias2.livewebcast.in/abcmedias/_definst_/abcmediaslive.stream/chunks.m3u8
-#EXTINF:0,,group-title="Tamil",Sana TV HD
-http://account11.livebox.co.in/Sanatvhls/live.m3u8
-#EXTINF:0,,group-title="Tamil",TamilVision TV
-http://209.58.177.186/tamilvisiontvhls/tamilvisiontv.m3u8
-#EXTINF:0,,group-title="Tamil",NettriKann TV
-http://45.79.203.234:1935/netrikgunhd/myStream/index.m3u8
-#EXTINF:0,, group-title="Tamil", Sigaram TV
-http://209.58.177.152/sigaramtvhls/live.m3u8
-#EXTINF:0,, group-title="Tamil", Sigaram Net TV
-http://209.58.177.152/sigaramcbmhls/live.m3u8
-#EXTINF:0,, group-title="Tamil", Tamil Nila
-rtmp://fatv.hopto.org:1936/tamilnila/tamilnila
-#EXTINF:0,, group-title="Tamil", WOW KIDZ Tamil
-https://ylive12-i.akamaihd.net/hls/live/682447/yuppkidztam/yuppkidztam_1200/chunklist.m3u8
-#EXTINF:0,, group-title="Tamil", Sivan TV
-https://sivan.vedge.infomaniak.com/livecast/sivan/playlist.m3u8
-#EXTINF:0,, group-title="Tamil", Sivam TV
-http://209.58.178.208/sivamtvhls/sivamtv.m3u8
-#EXTINF:0,, group-title="Tamil", SKTAT TV
-http://ealing.zecast.net/ealing-live-2/sktat.stream/index.m3u8
-#EXTINF:0,, group-title="Tamil", Murugan TV
-http://162.244.80.206:1935/live/murugantv/index.m3u8
+
 #EXTINF:0,, group-title="Tamil", Sankara TV
 http://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/tracks-v1a1/index.m3u8
-#EXTINF:0,, group-title="Tamil", Jayam TV
-http://209.58.160.82/livehls/stream.m3u8
+
 #EXTINF:0,, group-title="Tamil", Sri Krishna TV
 http://bsk.livebox.co.in/srikrishnatverdhls/srikrishnatverd.m3u8
-#EXTINF:0,, group-title="Tamil", Agam TV
-http://209.58.160.206/agamtvhls/live.m3u8
+
 #EXTINF:0,,group-title="Tamil",VELICHAM TV
 http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8
+
 #EXTINF:0,,group-title="Tamil",Palar TV
 http://209.58.178.82/palartvhls/live.m3u8
-#EXTINF:0,, group-title="Tamil", UTV Tamil
-http://account12.livebox.co.in/utvhls/live.m3u8
-#EXTINF:0,, group-title="Tamil", Michi TV
-http://209.58.164.113/michitvhls/michitv.m3u8
-#EXTINF:0,, group-title="Tamil", MP TV RagaMalai HD
-http://209.58.177.126/mptvhls/mptv.m3u8
-#EXTINF:0,, group-title="Tamil", Santhora Tv
-rtmp://rtmp.santhoratv.zecast.net/santhoratv/santhoratv
-#EXTINF:0,, group-title="Tamil", Pagalavan TV
-http://162.244.80.206:1935/live/pakalavantv/index.m3u8
-#EXTINF:0,, group-title="Tamil", KTN Plus TV
-http://account11.livebox.co.in/ktnplushls/ktnplus.m3u8
-#EXTINF:0,, group-title="Tamil", SKY TV
-http://209.58.180.57/skytvhls/live.m3u8
-#EXTINF:0,, group-title="Tamil", PCN TV
-http://209.58.178.86/startvgymhls/live.m3u8
-#EXTINF:0,, group-title="Tamil", Suriya HD Tamil
-http://209.58.180.49/suriyatvcglhls/live.m3u8
-#EXTINF:0,, group-title="Tamil", ITV HD Classic
-http://209.58.177.4/itvhls/live.m3u8
+
 #EXTINF:0,, group-title="Tamil", CITY TV HD
 http://209.58.177.73/citytvhls/live.m3u8
-#EXTINF:0,, group-title="Tamil", Vidiyal TV
-http://209.58.178.208/vidiyaltvhls/vidiyaltv.m3u8
+
 #EXTINF:0,, group-title="Tamil", Maya TV
 http://209.58.180.138/mayatvhls/live.m3u8
+
 #EXTINF:0,, group-title="Tamil", Abi TV
 http://209.58.180.58/abitvpdyhls/abitvpdy.m3u8
-#EXTINF:0,, group-title="Tamil", Orange TV
-http://bmlive.net:1935/r_orange/orangetv/index.m3u8
-#EXTINF:0,, group-title="Tamil", Thalapathy TV
-http://122.252.251.52:1935/live/thalapathitv/index.m3u8
-#EXTINF:0,, group-title="Tamil", TamilNadu TV
-http://bmlive.net:1935/r_tamilnadu/tamilnadutv/index.m3u8
-#EXTINF:0,, group-title="Tamil", BMTV HD
-http://122.252.251.52:1935/live/bmstv/index.m3u8
-#EXTINF:0,, group-title="Tamil", Yazh TV
-http://livematrix.in:1935/yazhtv/yazhtv/index.m3u8
-#EXTINF:0,,group-title="Tamil",Apple TV
-http://45.79.203.234:1935/apple6/myStream/index.m3u8
-#EXTINF:0,,group-title="Tamil",Mugizh TV HD
-http://209.58.180.57/mugizhtvhls/live.m3u8
-#EXTINF:0,,group-title="Tamil",Jawahar TV
-http://209.58.177.35/jawaharhls/live.m3u8
+
 #EXTINF:0,,group-title="Tamil",Jawahar plus tv
 http://jawaharchannel.livebox.co.in/jwplushls/live.m3u8
+
 #EXTINF:0,, group-title="Tamil", Jay TV
 http://livematrix.in:1935/live/jay/index.m3u8
-#EXTINF:0,, group-title="Tamil", MN TV
-http://209.58.177.114/mntvhls/mntv.m3u8
-#EXTINF:0,, group-title="Tamil", MN Music
-http://209.58.177.114/musichls/live.m3u8
+
 #EXTINF:0,, group-title="Tamil", Shree TV
 http://livematrix.in:1935/shreetv/shreetv/index.m3u8
-#EXTINF:0,, group-title="Tamil", Roja TV
-http://91.134.241.131/rojahls/roja.m3u8
-#EXTINF:0,, group-title="Tamil", Indian People TV
-http://bmlive.net:1935/c_ptv/ptv/chunklist.m3u8
-#EXTINF:0,, group-title="Tamil", SMV TV
-http://13.232.5.66:1935/smv/smvtv/chunklist.m3u8
+
 #EXTINF:0,, group-title="Tamil", STS Tamil TV
 http://santhora.de.flash.glb.ipercast.net/santhora.de-live/sts/index.m3u8
-#EXTINF:0,, group-title="Tamil", Spize TV
-http://account12.livebox.co.in/spizetvhls/spizetv.m3u8
-#EXTINF:0,, group-title="Tamil", A1 HD TV
-http://cdn.live5.in:1935/live/a1p/index.m3u8
-#EXTINF:0,, group-title="Tamil", 7Star TV
-http://185.105.4.244:1935/live/7star/index.m3u8
-#EXTINF:0,, group-title="Tamil", SS TV
-http://livematrix.in:1935/sstv/sstv/chunklist.m3u8
-#EXTINF:0,, group-title="Tamil", ROYAL TV
-http://209.58.177.210/royalmediahls/live.m3u8
+
 #EXTINF:0,,group-title="Tamil",SANGAMAM TV
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
-#EXTINF:0,,group-title="Tamil",MalaiMurasu TV
-http://45.79.203.234:1935/murasutv/myStream/playlist.m3u8
+
 #EXTINF:0,,group-title="Tamil",Nethra TV
 http://dammikartmp.tulix.tv/slrc3/slrc3/index.m3u8
-#EXTINF:0,,group-title="Tamil",Deva TV
-http://45.79.203.234:1935/deva/myStream/index.m3u8
-#EXTINF:0,,group-title="Tamil",Analai Express TV
-http://live.streamjo.com:1935/sarastv/sarastv.m3u8
-#EXTINF:0,,group-title="Tamil",Vaigai TV
-http://209.58.164.113/vaigaihls/live.m3u8
-#EXTINF:0,,group-title="Tamil",Aasai TV
-http://209.58.180.53/osaihls/live.m3u8
-#EXTINF:0,,group-title="Tamil",Tunes 6
-http://5k8q8pjzdy4v-hls-live.wmncdn.net/717/tunes61/live1.stream/tracks-v1a1/index.m3u8
-#EXTINF:0,,group-title="Tamil",Jaal TV
-http://209.58.160.112/jaaltvhls/live.m3u8
+
 #EXTINF:0,,group-title="Tamil",AARYA TV
 http://account4.livebox.co.in/aaryaatvhls/live.m3u8
-#EXTINF:0,,group-title="Tamil",Selfie TV HD
-http://198.144.158.41:8080/MOVIES_LIVE_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,,group-title="Tamil",Tamil Business TV
 http://santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv/index.m3u8
+
 #EXTINF:0,,group-title="Tamil",CTN TV
 http://45.79.203.234:1935/ctntv/myStream/index.m3u8
+
 #EXTINF:0,,group-title="Tamil",CVS TV
 http://45.79.203.234:1935/cvstv/myStream/index.m3u8
-#EXTINF:0,,group-title="Tamil",CTTV Tamil
-http://live.streamjo.com:1935/cctv/live/playlist.m3u8
+
 #EXTINF:0,,group-title="International",Roopavahini
 http://dammikartmp.tulix.tv/slrc1/slrc1/index.m3u8
-#EXTINF:0,,group-title="Tamil",Namadhu TV
-http://d3jo7lhb81t2hz.cloudfront.net/namadhutv/ngrp:live_all/index.m3u8
+
 #EXTINF:0,,group-title="Tamil",SR TV
-http://livematrix.in:1935/live/srtv/playlist.m3u8
-#EXTINF:0,,group-title="Tamil",Naagan TV
-http://nagantv.livebox.co.in/nagantvhls/nagantv.m3u8
+http://210.18.155.135:1935/live/srtv/chunklist.m3u8
+
 #EXTINF:0,,group-title="Tamil",1Yes TV
 http://jayadmin.in:1935/1yestv/1yestv/chunklist.m3u8
-#EXTINF:0,,group-title="Tamil",Naaam Tamizhar TV
-http://ntktv.cobrasoftwares.in/hls/stream.m3u8
-#EXTINF:0,,group-title="Tamil",NBTV
-http://209.58.180.57/nbtvhls/nbtv.m3u8
-#EXTINF:0,, group-title="Hindi",Hindi Premium
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhinpre.stream_all/index.m3u8
-#EXTINF:0,, group-title="Hindi",ErosNow Premium
-https://mhdtvworld.com/jio/jio.php?c=EROSNOW_Hindi_Premium&q=800&e=.m3u8
-#EXTINF:0,, group-title="Hindi",Star Plus AU
-https://mslapacs.akamaized.net/hls/live/692167/starplusau/starplusau_1800k/chunklist.m3u8
-#EXTINF:0,, group-title="Hindi",Hindi Classics
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhincla.stream_all/index.m3u8
-#EXTINF:0,, group-title="Hindi",Bollywood Blockbuster
-https://57a1bb14d0f06.streamlock.net/live/blockbusterday1_webA.sdp/chunklist_w1855624626.m3u8
-#EXTINF:0,, group-title="Hindi",Colors Cineplex
-https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1800k/chunklist.m3u8
-#EXTINF:0,, group-title="Hindi",Bengali Movies
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ybenmov.stream_all/index.m3u8
-#EXTINF:0,, group-title="Hindi",Hindi Kishorekumar Hits
-https://57a1bb14d0f06.streamlock.net/live/kishore_webA.sdp/chunklist_w391091625.m3u8
-#EXTINF:0,, group-title="Hindi", Bhakthi Sagar Hindi
-http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
-#EXTINF:0,,group-title="Hindi",Channel Y
-http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:0,,group-title="Hindi",Desi Channel
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-#EXTINF:0,,group-title="Hindi",Desi Plus
-http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-#EXTINF:0,,group-title="Hindi",Colors
-http://103.205.133.43/hls/colors.m3u8
-#EXTINF:0,,group-title="Hindi",Dilse Music
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
-#EXTINF:0,,group-title="Hindi",Ektha TV
-http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
-#EXTINF:0,,group-title="Hindi",IND USA TV
-http://telvuelive-i.akamaihd.net/hls/live/204284/indtv/playlist_4.m3u8
-#EXTINF:0,, group-title="English",Box Nation HD
-http://50.7.198.170:8081/abcd/boxnation/playlist.m3u8
+
+#EXTINF:0,,group-title="Tamil",Vendhar News
+http://45.79.203.234:1935/vendharnews/myStream/chunklist.m3u8
+
 #EXTINF:0,, group-title="English",Cinema World
 http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8
+
 #EXTINF:0,, group-title="English",Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8
+
 #EXTINF:0,, group-title="English",National Geo People
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+
 #EXTINF:0,, group-title="English",MBC Max HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+
 #EXTINF:0,, group-title="English",MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
+
 #EXTINF:0,, group-title="English",MBC Drama HD
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
+
 #EXTINF:0,, group-title="English",National Geo Wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
 #EXTINF:0,, group-title="English",National Geo HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
 #EXTINF:0,, group-title="English",Star Movies HD MiddleEast
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:0,, group-title="English",Star Movies HD India
-http://104.200.153.219/StarMoviesHD-Hin/tracks-v1a1/index.m3u8
+
 #EXTINF:0,, group-title="English",Star World HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+
 #EXTINF:0,, group-title="English",MBC 1 HD
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
+
 #EXTINF:0,, group-title="English",MBC 2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
+
 #EXTINF:0,, group-title="English",MBC 3 HD
-http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8 
-#EXTINF:0,, group-title="English",MBC 4 HD
-ttp://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
+
 #EXTINF:0,, group-title="English",MBC Bollywood HD
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8 
-#EXTINF:0,, group-title="English",Fox Action Movies
-http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8?sd=10&rebase=on
-#EXTINF:0,, group-title="English",Ditty TV music
-http://edge1.dittytv.com:1935/live/ngrp:dittytv.stream_all/index.m3u8
-#EXTINF:0,, group-title="English",1 HD
-http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v3a1/mono.m3u8
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+
 #EXTINF:0,, group-title="English",Victors TV Educational
 https://live.wmncdn.net/victers/live.stream/tracks-v1a1/index.m3u8
+
 #EXTINF:0,, group-title="English",HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:0,, group-title="English",HBO HD
-http://jiocdn.in/JIOTV.php?c=HBO_HD&q=800&e=.m3u8
-#EXTINF:0,, group-title="English",WB Movies
-http://malayalamtv.stream/jio/xstreamx.php?c=WB&q=800&e=.m3u8
-#EXTINF:0,, group-title="English",Star Movies
-http://142.93.219.225:8081/StarMovies/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,, group-title="English",FOX Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
 #EXTINF:0,, group-title="English",FOX Premium Comedy
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
 #EXTINF:0,, group-title="English",Max Prime
 http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+
 #EXTINF:0,, group-title="English",FOX Premium Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:0,, group-title="English",Disney
-http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
-#EXTINF:0,, group-title="English",Sony Movie Channel
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
+
 #EXTINF:0,, group-title="English",Canada Star TV
 http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
+
 #EXTINF:0,, group-title="English",Weather TV
 http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8
-#EXTINF:0,, group-title="English",Vyas TV
-http://nicls1-lh.akamaihd.net/i/vyas_1@307502/master.m3u8
+
 #EXTINF:0,, group-title="English",Cartoon Network
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:0,, group-title="Hindi",Nazrana
-http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
-#EXTINF:0,, group-title="Hindi",Movie House Hindi
-http://d2y6ekwadkc8z7.cloudfront.net/multitvcdn/smil:MovieHouse.smil/chunklist_b796000_sleng.m3u8
-#EXTINF:0,, group-title="Hindi",Bollywood classic
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,, group-title="Hindi",Bollywood HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/1.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,, group-title="Hindi",Zee Cinema APAC
-https://ylive31-i.akamaihd.net/hls/live/690887/zeecinema/zeecinema_1800/chunklist.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Discovery Kids Tamil
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226501/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Sony Yay Tamil
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226502/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Malyalam Movies
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymalmov.stream_all/index.m3u8
-#EXTINF:0,, group-title="Malayalam",MBO Movies Malayalam HD
-https://ylive31-i.akamaihd.net/hls/live/690890/mbo/mbo_2500/chunklist.m3u8
-#EXTINF:0,, group-title="Malayalam",MBO Movies Malayalam HD 2
-https://msluseast1s.akamaized.net/hls/live/2000129/mbomsl/mbo_2000/chunklist.m3u8
-#EXTINF:0,, group-title="Malayalam",MBO Movies Malayalam US HD
-https://msluscens.akamaized.net/hls/live/2000126/mbousmsl/mbous_2400/chunklist.m3u8
-#EXTINF:0,, group-title="Hindi",CCC TV Hindi
-https://acv.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/chunklist.m3u8
-#EXTINF:0,, group-title="Malayalam",Drisya Malayalam
-http://150.242.21.2/drisya.m3u8
-#EXTINF:0,, group-title="Malayalam",Asianet News
-http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
-#EXTINF:0,, group-title="Malayalam",Asianet HD
-http://asianethd-i.akamaihd.net/hls/live/569828/asianethd/master_2000.m3u8
-#EXTINF:0,, group-title="Malayalam",ACV Jukebox
-https://acv.asianetmobiletvplus.com/channels/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/index.m3u8
-#EXTINF:0,, group-title="Malayalam",ACV
-https://acv.asianetmobiletvplus.com/channels/8f8e72769cb3e3a6e27c220e1e3887b8.smil/index.m3u8
-#EXTINF:0,, group-title="Malayalam",ROSE BOWL
-https://acv.asianetmobiletvplus.com/channels/ef22daf97d61acb4bf52376c4105ad02.smil/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Asianet Utsav
-https://acv.asianetmobiletvplus.com/channels/021c9292219a98f899a7b74f0f34baa7.smil/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Asianet Utsav Plus
-https://acv.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.smil/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Asianet Movies
-http://asianetmovies-i.akamaihd.net/hls/live/569919/asianetmovies/master_2000.m3u8
-#EXTINF:0,, group-title="Malayalam",Asianet Plus
-http://asianetplus-i.akamaihd.net/hls/live/569922/asianetplus/master_2000.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Aditya
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226511/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",KTV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226514/index.m3u8
-#EXTINF:0,, group-title="Hindi",Sony TV HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225772/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Madha TV
-http://primarymadhatvcloud.purplestream.in/madhatv/madhatv3-live.smil/chunklist.m3u8
-#EXTINF:0,, group-title="Tamil Dish",News
-http://367449830.r.cdnsun.net/367449830/_definst_/seithigal/chunklist_w270038425.m3u8
-#EXTINF:0,, group-title="Telugu",Telugu Premium
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelpre.stream_all/index.m3u8
-#EXTINF:0,, group-title="Telugu",Telugu Comedy
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/index.m3u8
-#EXTINF:0,, group-title="Telugu",Telugu Classics
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/index.m3u8
-#EXTINF:0,, group-title="Telugu",TBO Classics
-https://msleurope2s.akamaized.net/hls/live/2000183/tboclassicmsl/tboclassic_1200/chunklist.m3u8
-#EXTINF:0,, group-title="Telugu",TBO Telugu Box Office Movies UK
-https://msluk1s.akamaized.net/hls/live/2000133/tboukmsl/tbouk_2000/chunklist.m3u8
-#EXTINF:0,, group-title="Telugu",Maa Movies
-https://msluk4s.akamaized.net/hls/live/2000136/maamoviesmsl1/maamovies_2000/chunklist.m3u8
-#EXTINF:0,, group-title="Telugu",Sneha TV
-http://367449830.r.cdnsun.net/367449830/_definst_/sneha/playlist.m3u8
-#EXTINF:0,, group-title="Malayalam",Kaumudy
-http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
-#EXTINF:0,, group-title="Malayalam",TCV (Thrissur Cable Vision)
-http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:0,, group-title="Malayalam",KCV
-http://cdn.live5.in:1935/live/kcv/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Pravasi TV
-http://cdn.live5.in:1935/live/pravasi/playlist.m3u8
-#EXTINF:0,, group-title="Malayalam",Prime Canada
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:0,, group-title="Malayalam",Channel4U
-http://150.242.21.2/channel4you.m3u8
-#EXTINF:0,, group-title="Malayalam",Vismaya TV
-http://150.242.21.2/vismaya.m3u8
-#EXTINF:0,, group-title="Malayalam",GoSree TV
-http://150.242.21.2/gosree.m3u8
-#EXTINF:0,, group-title="Malayalam",OZ Malayalee TV
-https://wowzaprod165-i.akamaihd.net/hls/live/628027/6d621c89_1_1228800/chunklist.m3u8
-#EXTINF:0,, group-title="Malayalam",Janam TV
-https://vidhttps.r.worldssl.net/janamtv-origin/liveabr/janamtv-origin/live1/chunks.m3u8
-#EXTINF:0,, group-title="Malayalam",Media Net
-http://150.242.21.2/medianet.m3u8
-#EXTINF:0,, group-title="Malayalam",Media Orange
-http://150.242.21.2/mediaorange.m3u8
-#EXTINF:0,, group-title="Malayalam",Megnavision TV
-http://livestream.5centscdn.com/abr3/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
-#EXTINF:0,, group-title="Malayalam",News 18 Malayalam
-https://kerala_nws18_hls-lh.akamaihd.net/i/kerala_news18_hls_1@526583/index_3_av-p.m3u8
-#EXTINF:0,, group-title="Malayalam",Ten Digital
-http://150.242.21.2/tendigital.m3u8
-#EXTINF:0,, group-title="Malayalam",Unitech TV
-http://livestream.5centscdn.com/unitechtvlive/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Surya Movies
-https://ylive28-i.akamaihd.net/hls/live/690702/kirantvus/kirantvus_1200/chunklist.m3u8
-#EXTINF:0,, group-title="Malayalam",Mars Movies
-http://stream.cinesoft.live/cinehome/smil:11666_cmovies.smil/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Manorama
-https://acv.asianetmobiletvplus.com/channels/mazhavil_aoylhoymbydtgthnottekwcaadirrwds/chunklist.m3u8
-#EXTINF:0,, group-title="Malayalam",Manorama International
-http://cmediaone.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&playlistlength=25&shift=0
-#EXTINF:0,, group-title="Malayalam",Kairali Arabia
-http://d2y6ekwadkc8z7.cloudfront.net/multitvcdn/smil:KairaliArabia.smil/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Kairali
-http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(04)/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Kerala Vision
-http://103.199.161.254/Content/keralavisionst/Live/Channel(KeralavisionST)/Stream(01)/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Channel D Live
-http://jiocgehub.jio.ril.com/ChannelDHD/ChannelDHD_600.m3u8
-#EXTINF:0,, group-title="Malayalam",Channel D UAE
-http://37.220.111.189:1935/JioTv/Studio_web/index.m3u8
-#EXTINF:0,, group-title="English",NDTV 24x7
-https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
-#EXTINF:0,, group-title="English",NDTV Prime
-https://ndtvstream-lh.akamaihd.net//i//ndtv_profit_1@300635//master.m3u8
-#EXTINF:0,, group-title="English",New X
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/chunklist_w2090785232_b512000.m3u8
-#EXTINF:0,, group-title="English",News 18 India
-http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
-#EXTINF:0,, group-title="English",News X HD
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
+
+
 #EXTINF:0,, group-title="English",Times Now HD
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-#EXTINF:0,, group-title="Hindi",News 18 India
-http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
-#EXTINF:0,, group-title="Hindi",NDTV India
-https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
-#EXTINF:0,, group-title="Hindi",Pitaara TV
-https://livepitaara.planetcast.in/pitaaraTV.m3u8
-#EXTINF:0,, group-title="Hindi",Living India News
-http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
-#EXTINF:0,, group-title="Hindi",Zoom
-http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
-#EXTINF:0,, group-title="Hindi",Anand Media HD
-http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/playlist.m3u8
-#EXTINF:0,,group-title="Hindi",KADAK HUNGAMA HIT
-https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
-#EXTINF:0,,group-title="Hindi",POP HUMGAMA HIT
-https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
-#EXTINF:0,, group-title="Regional",DPD Punjabi HD
-http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
+
 #EXTINF:0,, group-title="Regional",NDA Channel
 http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
-#EXTINF:0,, group-title="Regional",News 18 Lokmat
-http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
-#EXTINF:0,, group-title="Regional",Prime Asia
-http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
-#EXTINF:0,, group-title="Regional",Sikh Channel
-http://api.new.livestream.com/accounts/5296919/events/4847426/videos/166122157.m3u8
+
 #EXTINF:0,, group-title="Regional",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:0,, group-title="English",Zoom  Music 
-http://62.210.78.84:25461/live/newlist/chindiann/160.ts
-#EXTINF:0,, group-title="International",Ronahi TV
-http://bein.website/ZonaLiveTV1/Ronahi.m3u8
+
 #EXTINF:0,, group-title="English",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+
 #EXTINF:0,, group-title="International",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:0,, group-title="International",Sky TG24
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+
 #EXTINF:0,, group-title="International",TV5 Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+
 #EXTINF:0,,group-title="International",Texas Student TV
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+
 #EXTINF:0,, group-title="International",Property Buzz TV
 http://cdn.live247stream.com/propertybuzz/tv/playlist.m3u8
-#EXTINF:0,, group-title="Malayalam",Unitech TV
-http://livestream.5centscdn.com/unitechtvlive/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
-#EXTINF:0,,group-title="International",Temple University TV
-http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.
-#EXTINF:0,, group-title="Tamil Dish",Sun Music HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226518/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Sun News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226519/index.m3u8
-#EXTINF:0,, group-title="Telugu",DAN Yarl tv
-http://askmedia.livebox.co.in/YarlTVhls/yarl.m3u8
-#EXTINF:0,, group-title="Telugu",Gemini News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226520/index.m3u8
-#EXTINF:0,, group-title="Telugu",Gemini Music
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226521/index.m3u8
-#EXTINF:0,, group-title="Telugu",Gemini Life
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226522/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",SUNTV HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226523/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",KTV HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226524/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Chutti Tv
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226525/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Surya Music
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226526/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Surya
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226527/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Surya Comedy
-http://mhms10.airtel.tv/PLTV/88888888/224/3221226579/index.m3u8
-#EXTINF:0,, group-title="Telugu",Gemini Movies
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226528/index.m3u8
-#EXTINF:0,, group-title="Telugu",Maa Movies
-https://msluk4s.akamaized.net/hls/live/2000136/maamoviesmsl1/maamovies_2000/chunklist.m3u8
-#EXTINF:0,, group-title="Telugu",Maa Movies HD
-http://maamovies-i.akamaihd.net/hls/live/569931/maamovies/master_2000.m3u8
-#EXTINF:0,, group-title="Telugu",Maa TV
-http://maatv-i.akamaihd.net/hls/live/569930/maatv/master_2000.m3u8
-#EXTINF:0,, group-title="Telugu",Maa Gold
-http://maagold-i.akamaihd.net/hls/live/569932/maagold/master_1200.m3u8
-#EXTINF:0,, group-title="Kannada",Star Suvarna 
-http://starsuvarna-i.akamaihd.net/hls/live/569901/starsuvarna/master_2000.m3u8
-#EXTINF:0,, group-title="Kannada",Udaya Comedy
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226529/index.m3u8
-#EXTINF:0,, group-title="Kannada",Udaya News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226530/index.m3u8
-#EXTINF:0,, group-title="Kannada",Chutti
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226531/index.m3u8
-#EXTINF:0,, group-title="Kannada",Hamsa TV Kannada
-http://hamsatv.livebox.co.in/livehls/hamsatv.m3u8
-#EXTINF:0,, group-title="Kannada",A1 Kannada
-http://aonetv.livebox.co.in/aonehls/live.m3u8
-#EXTINF:0,, group-title="Kannada",Bhoomi TV Kannada
-http://brightbroadcasting.livebox.co.in/bhoomitvhls/bhoomitv.m3u8
-#EXTINF:0,, group-title="Telugu",Gemini
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226532/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Surya Movies
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226533/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Zee Keralam
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226576/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Sun TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226534/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Sun Music
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226535/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Sun Life
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226536/index.m3u8
-#EXTINF:0,, group-title="English",Cartoon Network
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:0,, group-title="English",Republic TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226000/index.m3u8
+
+
 #EXTINF:0,, group-title="English",Republic TV
 https://repblicwld.s.llnwi.net/midroll/amagi_hls_data_republict-republictv/CDN/640x360_576000/index.m3u8
-#EXTINF:0,, group-title="Hindi",ABP News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226006/index.m3u8
-#EXTINF:0,, group-title="English",BTVi
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226009/index.m3u8
-#EXTINF:0,, group-title="Hindi",E24
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:0,, group-title="Hindi",9X Jalwa
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:0,, group-title="Regional",Kalinga TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:0,, group-title="Regional",9X Tashan
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226017/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Kairali We
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:0,, group-title="Regional",Tarang Music
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226023/index.m3u8
-#EXTINF:0,, group-title="Regional",OTV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226024/index.m3u8
-#EXTINF:0,, group-title="Regional",9X Jhakaas
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226026/index.m3u8
-#EXTINF:0,, group-title="English",9XO
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226028/index.m3u8
-#EXTINF:0,, group-title="Regional",Dangal
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226029/index.m3u8
-#EXTINF:0,, group-title="Regional",Tarang TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226032/index.m3u8
-#EXTINF:0,, group-title="Regional",Prathna TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226033/index.m3u8
-#EXTINF:0,, group-title="Regional",News World
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226034/index.m3u8
-#EXTINF:0,, group-title="Regional",Alankar
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226042/index.m3u8
-#EXTINF:0,, group-title="Hindi",& TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226048/index.m3u8
-#EXTINF:0,, group-title="Hindi",& Pictures
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226049/index.m3u8
-#EXTINF:0,, group-title="English",BBC World News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226051/index.m3u8
-#EXTINF:0,, group-title="Hindi",9xM
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226053/index.m3u8
-#EXTINF:0,, group-title="Hindi",B4U Music
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226055/index.m3u8
-#EXTINF:0,, group-title="Regional",Bhojpuri Cinema
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226056/index.m3u8
-#EXTINF:0,, group-title="Regional",Sangeet Bhojpuri
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226064/index.m3u8
-#EXTINF:0,, group-title="Hindi",Sony Yay
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226065/index.m3u8
-#EXTINF:0,, group-title="Hindi",Zee Classic
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8
-#EXTINF:0,, group-title="English",Sony BBC Earth
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226068/index.m3u8
-#EXTINF:0,, group-title="English",Discovery Science
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226490/index.m3u8
-#EXTINF:0,, group-title="Hindi",Aastha
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226069/index.m3u8
-#EXTINF:0,, group-title="Hindi",Sanskar
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226070/index.m3u8
-#EXTINF:0,, group-title="Hindi",Zee Hindustan
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226074/index.m3u8
-#EXTINF:0,, group-title="English",Sony ESPN HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:0,, group-title="English",Sony Ten 2 HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226077/index.m3u8
-#EXTINF:0,, group-title="Hindi",Sony Sab HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226078/index.m3u8
-#EXTINF:0,, group-title="Hindi",Zing TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226080/index.m3u8
-#EXTINF:0,, group-title="English",Bloomberg
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226082/index.m3u8
-#EXTINF:0,, group-title="Hindi",Zee Cinema HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226083/index.m3u8
-#EXTINF:0,, group-title="Hindi",& TV HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226084/index.m3u8
-#EXTINF:0,, group-title="English",Fashion TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226086/index.m3u8
-#EXTINF:0,, group-title="Regional",Chardikla Time TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226087/index.m3u8
-#EXTINF:0,, group-title="Hindi",Big Ganga
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226088/index.m3u8
-#EXTINF:0,, group-title="Regional",Aakaash
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226090/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Kalingar
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226091/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Jaya TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226092/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Kairali TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226093/index.m3u8
-#EXTINF:0,, group-title="Telugu",TV9 Telugu
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226094/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Jaya Movie
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226095/index.m3u8
-#EXTINF:0,, group-title="Regional",Zee Yuva
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226096/index.m3u8
-#EXTINF:0,, group-title="Hindi",Dabangg
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226097/index.m3u8
-#EXTINF:0,, group-title="Telugu",Zee Telugu Cinema
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226098/index.m3u8
-#EXTINF:0,, group-title="Regional",Sony Aath
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226099/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Kaumudy
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Jaya Max
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226101/index.m3u8
-#EXTINF:0,, group-title="Hindi",IBC 24
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226102/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Polimer TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226103/index.m3u8
-#EXTINF:0,, group-title="Regional",Rang
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226106/index.m3u8
-#EXTINF:0,, group-title="Regional",Zee Sarthak
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226107/index.m3u8
-#EXTINF:0,, group-title="Regional",News Live
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226108/index.m3u8
-#EXTINF:0,, group-title="English",Al Jazeera
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226109/index.m3u8
-#EXTINF:0,, group-title="Regional",Prag News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226110/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Janam TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226111/index.m3u8
-#EXTINF:0,, group-title="Hindi",V News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226112/index.m3u8
-#EXTINF:0,, group-title="Regional",TV9 Gujarati
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226113/index.m3u8
-#EXTINF:0,, group-title="Regional",Anjan
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226115/index.m3u8
-#EXTINF:0,, group-title="Regional",Arijan
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226115/index.m3u8
-#EXTINF:0,, group-title="Regional",Zee 24 Kalak
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226116/index.m3u8
-#EXTINF:0,, group-title="Hindi",B4U Movies
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226118/index.m3u8
-#EXTINF:0,, group-title="Regional",Pitaara
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226122/index.m3u8
-#EXTINF:0,, group-title="Hindi",News 24
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226138/index.m3u8
-#EXTINF:0,, group-title="Kannada",Public TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226139/index.m3u8
-#EXTINF:0,, group-title="Telugu",ABN News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:0,, group-title="Telugu",NTV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226141/index.m3u8
-#EXTINF:0,, group-title="Telugu",TV9 News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226142/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",MK TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226196/index.m3u8
-#EXTINF:0,, group-title="Telugu",V6 News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226197/index.m3u8
-#EXTINF:0,, group-title="Regional",DY365
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226198/index.m3u8
-#EXTINF:0,, group-title="Hindi",Sony Pal
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226200/index.m3u8
-#EXTINF:0,, group-title="Regional",Zee Talkies HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226202/index.m3u8
-#EXTINF:0,, group-title="Hindi",& Pictures HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:0,, group-title="English",Discovery HD World
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
-#EXTINF:0,, group-title="Hindi",Divya TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226211/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",7S Music
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226213/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",MK Tunes
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226214/index.m3u8
-#EXTINF:0,, group-title="Hindi",Bansal News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226216/index.m3u8
-#EXTINF:0,, group-title="Hindi",Enter 10 
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226218/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Thanthi TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226219/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Raj TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226220/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Sirippoli
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226221/index.m3u8
-#EXTINF:0,, group-title="Regional",Sangeet Marathi
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226222/index.m3u8
-#EXTINF:0,, group-title="Hindi",Prarthana Bhawan
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226223/index.m3u8
-#EXTINF:0,, group-title="Regional",Kanak News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226224/index.m3u8
-#EXTINF:0,, group-title="Hindi",Maha Movie
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226225/index.m3u8
-#EXTINF:0,, group-title="Hindi",Manoranjan Movies
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226226/index.m3u8
-#EXTINF:0,, group-title="Hindi",Manoranjan TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226227/index.m3u8
-#EXTINF:0,, group-title="Hindi",Shubhsandesh TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226228/index.m3u8
-#EXTINF:0,, group-title="Telugu",Aradana TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226229/index.m3u8
-#EXTINF:0,, group-title="Kannada",Prajaa TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226234/index.m3u8
-#EXTINF:0,, group-title="Hindi",Shubh TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226235/index.m3u8
-#EXTINF:0,, group-title="Hindi",National Voice UP UK
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226236/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Raj Musix (Tamil)
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226238/index.m3u8
-#EXTINF:0,, group-title="Hindi",Dighvijay News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226240/index.m3u8
-#EXTINF:0,, group-title="Regional",Zee Bihar JH
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226241/index.m3u8
-#EXTINF:0,, group-title="Kannada",Raj News (Kannada)
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226243/index.m3u8
-#EXTINF:0,, group-title="Hindi",Cinema TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226246/index.m3u8
-#EXTINF:0,, group-title="Telugu",CVR News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226247/index.m3u8
-#EXTINF:0,, group-title="Telugu",CVR Health
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:0,, group-title="Hindi",Hindi Khabar
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226249/index.m3u8
-#EXTINF:0,, group-title="Regional",CTVN Plus
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226250/index.m3u8
-#EXTINF:0,, group-title="Hindi",Khabrein Abhi Tak
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226252/index.m3u8
-#EXTINF:0,, group-title="Telugu",Raj News (Telugu)
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226254/index.m3u8
-#EXTINF:0,, group-title="Telugu",Vissa TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226255/index.m3u8
-#EXTINF:0,, group-title="Telugu",Raj Musix (Telugu)
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226256/index.m3u8
-#EXTINF:0,, group-title="Telugu",Raj Musix (Telugu)
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226256/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Raj Musix (Malayalam)
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226257/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Raj Music (Malayalam)
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226257/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Raj News (Malayalam)
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226259/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Raj News (Tamil)
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226260/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Ashirvatham TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226262/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Nambikkai TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226262/index.m3u8
-#EXTINF:0,, group-title="Hindi",Wow Cinema
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226263/index.m3u8
-#EXTINF:0,, group-title="Hindi",Shop CJ
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226266/index.m3u8
-#EXTINF:0,, group-title="Hindi",Bharat Samachar
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226268/index.m3u8
-#EXTINF:0,, group-title="Regional",Dishum
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226269/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Cauvery News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226276/index.m3u8
-#EXTINF:0,, group-title="Regional",Zee Bangla HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226277/index.m3u8
-#EXTINF:0,, group-title="Regional",Zee Marathi HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226278/index.m3u8
-#EXTINF:0,, group-title="English",TLC HD World
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226279/index.m3u8
-#EXTINF:0,, group-title="English",Sony BBC Earth HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226280/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Jaya Plus
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226282/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Polimer News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226283/index.m3u8
-#EXTINF:0,, group-title="Regional",CN News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226285/index.m3u8
-#EXTINF:0,, group-title="Hindi",OK India
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226286/index.m3u8
-#EXTINF:0,, group-title="Regional",News Time
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226287/index.m3u8
-#EXTINF:0,, group-title="Regional",Pratidin Time
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226288/index.m3u8
-#EXTINF:0,, group-title="Hindi",Paras TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226289/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Murasu
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226290/index.m3u8
-#EXTINF:0,, group-title="Regional",DD Bharathi
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226292/index.m3u8
-#EXTINF:0,, group-title="Regional",DD GIRNAR
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226292/index.m3u8
-#EXTINF:0,, group-title="Regional",DD reg1
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226293/index.m3u8
-#EXTINF:0,, group-title="Regional",DD Kissan
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226294/index.m3u8
-#EXTINF:0,, group-title="Regional",DD National
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226296/index.m3u8
-#EXTINF:0,, group-title="Regional",DD North East
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226300/index.m3u8
-#EXTINF:0,, group-title="Malayalam",DD Malayalam
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226301/index.m3u8
-#EXTINF:0,, group-title="Regional",DD Odiya
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226302/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish", Isai Aruvi-2
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226303/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Puthiya Thalamurai
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226304/index.m3u8
-#EXTINF:0,, group-title="Regional",Fakt Marathi
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226305/index.m3u8
-#EXTINF:0,, group-title="Telugu",Sakshi TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226306/index.m3u8
-#EXTINF:0,, group-title="Telugu",T News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",News 7
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226308/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Amrita
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226310/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Discovery (Tamil)
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226311/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Puthu Yugam
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Mathrubhumi News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226314/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Raj Digital Plus
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226316/index.m3u8
-#EXTINF:0,, group-title="Kannada",Raj Musix (Kannada)
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226317/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Kalingar News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226318/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Kappa TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226319/index.m3u8
-#EXTINF:0,, group-title="Kannada",Sri Sankara
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226320/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Vasanth
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:0,, group-title="English",TV5 Monde Asia
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226322/index.m3u8
-#EXTINF:0,, group-title="English",DW
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226323/index.m3u8
-#EXTINF:0,, group-title="English",God TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226325/index.m3u8
-#EXTINF:0,, group-title="Hindi",Jinvani
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226326/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Madha TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:0,, group-title="Hindi",Sadhana TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226328/index.m3u8
-#EXTINF:0,, group-title="Hindi",Living Foodz HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226329/index.m3u8
-#EXTINF:0,, group-title="English",Sony Ten 3 HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:0,, group-title="Hindi",Zee Action
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226331/index.m3u8
-#EXTINF:0,, group-title="Regional",Maiboli
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226332/index.m3u8
-#EXTINF:0,, group-title="Regional",Sangeet Bangla
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226333/index.m3u8
-#EXTINF:0,, group-title="English",RT
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226334/index.m3u8
-#EXTINF:0,, group-title="Malayalam",MBC Tv
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226335/index.m3u8
-#EXTINF:0,, group-title="Regional",Assam Talks
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Sathiyam
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226340/index.m3u8
-#EXTINF:0,, group-title="Kannada",BTV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226341/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Tamilian Television
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226342/index.m3u8
+
 #EXTINF:0,, group-title="Tamil Dish",Tamizhan TV
 http://live.wmncdn.net/tamilan/live.stream/index.m3u8
-#EXTINF:0,, group-title="Hindi",RSTV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226343/index.m3u8
-#EXTINF:0,, group-title="Regional",DD Marathi
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:0,, group-title="Telugu",DD Saptagiri
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226345/index.m3u8
-#EXTINF:0,, group-title="Hindi",DD Sports
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226346/index.m3u8
-#EXTINF:0,, group-title="Telugu",DD Yadagiri 
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226347/index.m3u8
-#EXTINF:0,, group-title="Hindi",DD Raja
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226348/index.m3u8
-#EXTINF:0,, group-title="Hindi",LSTV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226349/index.m3u8
-#EXTINF:0,, group-title="Telugu",TV5 Telugu
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226350/index.m3u8
-#EXTINF:0,, group-title="Telugu",10 TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226351/index.m3u8
-#EXTINF:0,, group-title="Telugu",Subhavaartha TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226352/index.m3u8
-#EXTINF:0,, group-title="Hindi",Zee Etc
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226353/index.m3u8
-#EXTINF:0,, group-title="Hindi",Home Shop 18
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226354/index.m3u8
-#EXTINF:0,, group-title="Regional",Zee Salaam
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226355/index.m3u8
-#EXTINF:0,, group-title="Telugu",Bhakti TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226357/index.m3u8
-#EXTINF:0,, group-title="Regional",Ramdhenu
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226358/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Kairali People TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226359/index.m3u8
-#EXTINF:0,, group-title="Regional",Music Fatafati
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226360/index.m3u8
-#EXTINF:0,, group-title="Regional",Ruposhi Bangla
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226361/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Makkal TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226362/index.m3u8
-#EXTINF:0,, group-title="English",Wion TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226363/index.m3u8
-#EXTINF:0,, group-title="Regional",Rengoni
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226364/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Mega TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226365/index.m3u8
-#EXTINF:0,, group-title="Regional",Saam
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226366/index.m3u8
-#EXTINF:0,, group-title="Regional",Jonack
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226367/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Media One
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226368/index.m3u8
-#EXTINF:0,, group-title="Regional",Dhoom Music
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226369/index.m3u8
-#EXTINF:0,, group-title="Regional",TV9 Marathi
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226370/index.m3u8
-#EXTINF:0,, group-title="Regional",Zingaat
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226371/index.m3u8
-#EXTINF:0,, group-title="Regional",DD Bangla
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226374/index.m3u8
-#EXTINF:0,, group-title="Kannada",DD Chandana
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226375/index.m3u8
-#EXTINF:0,, group-title="Hindi",DD MP
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226376/index.m3u8
-#EXTINF:0,, group-title="Hindi",DD News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226377/index.m3u8
-#EXTINF:0,, group-title="Regional",DD Punjabi-2
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226379/index.m3u8
-#EXTINF:0,, group-title="Hindi",Sudarsana News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226380/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",DD Tamil
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226381/index.m3u8
-#EXTINF:0,, group-title="Hindi",DD UP
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226383/index.m3u8
-#EXTINF:0,, group-title="Regional",DD Urdu
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226384/index.m3u8
-#EXTINF:0,, group-title="Regional",DD Bihar
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226385/index.m3u8
-#EXTINF:0,, group-title="Regional",DD Kashir
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226386/index.m3u8
-#EXTINF:0,, group-title="Hindi",Patrika TV Raj
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226389/index.m3u8
-#EXTINF:0,, group-title="English",D Sport
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
-#EXTINF:0,,group-title="English",DSports
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
-#EXTINF:0,, group-title="Hindi",Arihath
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226396/index.m3u8
-#EXTINF:0,, group-title="Telugu",Telungu
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226399/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Angel TV HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226400/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Jaihind TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226402/index.m3u8
-#EXTINF:0,, group-title="Telugu",Om Spiritual
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226403/index.m3u8
-#EXTINF:0,, group-title="Regional",Kolkatta TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226404/index.m3u8
-#EXTINF:0,, group-title="Telugu",Kushi TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226405/index.m3u8
-#EXTINF:0,, group-title="Hindi",Navgrah
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:0,, group-title="Regional",Nepal One
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226407/index.m3u8
-#EXTINF:0,, group-title="English",NHK World
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226408/index.m3u8
-#EXTINF:0,, group-title="Hindi",Peace Of Mind
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:0,, group-title="Regional",Prameya News 7
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226410/index.m3u8
-#EXTINF:0,, group-title="Kannada",Saral Jeevan
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226411/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Shalom TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226412/index.m3u8
-#EXTINF:0,, group-title="Hindi",Sony Wah
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8
-#EXTINF:0,, group-title="Kannada",Suvarna News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226414/index.m3u8
-#EXTINF:0,, group-title="Telugu",SVBC TTD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226415/index.m3u8
-#EXTINF:0,, group-title="English",India Today
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226423/index.m3u8
-#EXTINF:0,, group-title="Hindi",Star Gold
-http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000.m3u8
-#EXTINF:0,, group-title="Hindi",Movies OK
-http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8
-#EXTINF:0,, group-title="Hindi",Star Plus
-http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
-#EXTINF:0,, group-title="Hindi",Star Utsav
-http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8
-#EXTINF:0,, group-title="Hindi",Star Bharath
-http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_2000.m3u8
-#EXTINF:0,, group-title="Hindi",Aaj Tak-2
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:0,, group-title="Hindi",Tez
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226432/index.m3u8
-#EXTINF:0,, group-title="Hindi",Sony Pix
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226442/index.m3u8
-#EXTINF:0,, group-title="English",AXN
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226443/index.m3u8
-#EXTINF:0,, group-title="English",AXN HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226485/index.m3u8
-#EXTINF:0,, group-title="English",Sony Le Plex HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226446/index.m3u8
-#EXTINF:0,, group-title="Hindi",Discovery Jeet
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226447/index.m3u8
-#EXTINF:0,, group-title="Hindi",Jeet Prime HD
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226479/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Discovery Kids Tamil
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226501/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Sony Yay Tamil
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226502/index.m3u8
-#EXTINF:0,, group-title="Telugu",TTD1 Channel
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226503/index.m3u8
-#EXTINF:0,, group-title="Telugu",TTD2 Channel
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226504/index.m3u8
-#EXTINF:0,, group-title="Telugu",Sony YAY Telugu
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:0,, group-title="Telugu",Gemini Comedy
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226510/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Aditya
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226511/index.m3u8
-#EXTINF:0,, group-title="Kannada",Udaya Music
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226512/index.m3u8
-#EXTINF:0,, group-title="Kannada",Udaya
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226513/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",KTV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226514/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",KTV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226514/index.m3u8
-#EXTINF:0,, group-title="Telugu",Chutti
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226515/index.m3u8
-#EXTINF:0,, group-title="Kannada",Udaya Movies
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226516/index.m3u8
-#EXTINF:0,, group-title="Telugu",Gemini HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226517/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Sun Music HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226518/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Sun News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226519/index.m3u8
-#EXTINF:0,, group-title="Telugu",Gemini News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226520/index.m3u8
-#EXTINF:0,, group-title="Telugu",Gemini Music
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226521/index.m3u8
-#EXTINF:0,, group-title="Telugu",Gemini Life
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226522/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Chutti Tv
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226525/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Surya Music
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226526/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Surya
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226527/index.m3u8
-#EXTINF:0,, group-title="Telugu",Gemini Movies
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226528/index.m3u8
-#EXTINF:0,, group-title="Kannada",Udaya Comedy
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226529/index.m3u8
-#EXTINF:0,, group-title="Kannada",Udaya News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226530/index.m3u8
-#EXTINF:0,, group-title="Kannada",Chutti
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226531/index.m3u8
-#EXTINF:0,, group-title="Telugu",Gemini
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226532/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Surya Movies
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226533/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Sun TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226534/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Sun Music
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226535/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Sun Life
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226536/index.m3u8
-#EXTINF:0,, group-title="Hindi",Big Magic
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225745/index.m3u8
-#EXTINF:0,, group-title="English",NDTV Good Times
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225774/index.m3u8
-#EXTINF:0,, group-title="Hindi",Discovery
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225874/index.m3u8
-#EXTINF:0,, group-title="Hindi",Discovery Kids
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225775/index.m3u8
-#EXTINF:0,, group-title="Hindi",Discovery Science
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225778/index.m3u8
-#EXTINF:0,, group-title="English",Sony ESPN
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225805/index.m3u8
-#EXTINF:0,, group-title="Hindi",Sony Max
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225811/index.m3u8
-#EXTINF:0,, group-title="Tamil",Vaanavil
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226244/index.m3u8
-#EXTINF:0,, group-title="Hindi",Sony Max HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225776/index.m3u8
-#EXTINF:0,, group-title="Hindi",Sony Mix
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225816/index.m3u8
-#EXTINF:0,, group-title="Hindi",Sony Sab
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225825/index.m3u8
-#EXTINF:0,, group-title="Hindi",Sony TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225803/index.m3u8
-#EXTINF:0,, group-title="Hindi",Sony TV HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225772/02.m3u8
-#EXTINF:0,, group-title="Hindi",Zee Business
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225930/index.m3u8
-#EXTINF:0,, group-title="Hindi",Zee Cinema
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225935/index.m3u8
-#EXTINF:0,, group-title="Hindi",Zee MP
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225927/index.m3u8
-#EXTINF:0,, group-title="Hindi",Zee News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225922/index.m3u8
-#EXTINF:0,, group-title="Hindi",Zee Raj
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225928/index.m3u8
-#EXTINF:0,, group-title="Hindi",Zee TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225878/index.m3u8
-#EXTINF:0,, group-title="Hindi",Zee TV HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225942/index.m3u8
-#EXTINF:0,, group-title="English",TLC
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225819/index.m3u8
-#EXTINF:0,, group-title="English",Travel XP
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225813/index.m3u8
-#EXTINF:0,, group-title="English",Animal Planet
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226488/index.m3u8
-#EXTINF:0,, group-title="English",Animal Planet HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:0,, group-title="English",Sony Six
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225827/index.m3u8
-#EXTINF:0,, group-title="English",Sony Six HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:0,, group-title="Hindi",News Nation
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:0,, group-title="English",Sony Ten 1
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:0,, group-title="English",Sony Ten 1 HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:0,, group-title="English",Sony Ten 2
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:0,, group-title="English",Sony Ten 3
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225933/index.m3u8
-#EXTINF:0,, group-title="English",News X
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225796/index.m3u8
-#EXTINF:0,, group-title="English",Neo Prime
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225789/index.m3u8
-#EXTINF:0,, group-title="English",Neo Sports
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225791/index.m3u8
-#EXTINF:0,, group-title="Hindi",Food Food
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225836/index.m3u8
-#EXTINF:0,, group-title="English",Discovery Turbo
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225782/index.m3u8
-#EXTINF:0,, group-title="English",Living Foodz
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225886/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Flowers TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225838/index.m3u8
-#EXTINF:0,, group-title="Malayalam",Safari TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225854/index.m3u8
-#EXTINF:0,, group-title="Telugu",Zee Telungu
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225883/index.m3u8
-#EXTINF:0,, group-title="Kannada",Zee Kannada
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225936/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Zee Tamil
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Zee Tamil HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226567/index.m3u8
-#EXTINF:0,, group-title="Hindi",Fatafati Music
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226360/index.m3u8
-#EXTINF:0,, group-title="Hindi",Ganga
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226088/index.m3u8
-#EXTINF:0,, group-title="Hindi",Rose TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226265/index.m3u8
-#EXTINF:0,, group-title="Hindi",Sankara TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226320/index.m3u8
-#EXTINF:0,, group-title="Hindi",Abhi Tak
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226252/index.m3u8
-#EXTINF:0,, group-title="Regional",Sandesh News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225852/index.m3u8
-#EXTINF:0,, group-title="Regional",VTV News
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226112/index.m3u8
-#EXTINF:0,, group-title="Tamil Dish",Win TV
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226251/index.m3u8
-#EXTINF:0,, group-title="Regional",Zee 24 Taas
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225926/index.m3u8
-#EXTINF:0,, group-title="Regional",Zee Bangla	
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225882/index.m3u8
-#EXTINF:0,, group-title="Regional",Zee Bangla Cinema
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225889/index.m3u8
-#EXTINF:0,, group-title="Regional",Zee Kalinga
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225937/index.m3u8
-#EXTINF:0,, group-title="Regional",Zee Marathi
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225881/index.m3u8
-#EXTINF:0,, group-title="Regional",Zee PB HP HR
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225923/index.m3u8
-#EXTINF:0,, group-title="Regional",Zee Talkies
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225921/index.m3u8
-#EXTINF:0,, group-title="Regional",24 Ghanta
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225925/index.m3u8
-#EXTINF:0,,group-title="English",(IN) SONY ESPN SD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225805/index.m3u8
-#EXTINF:0,,group-title="English",(IN) SONY ESPN HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:0,,group-title="English",(IN) SONY SIX SD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225827/index.m3u8
-#EXTINF:0,,group-title="English",(IN) SONY SIX HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:0,,group-title="English",(IN) SONY TEN 1 SD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:0,,group-title="English",(IN) SONY TEN 1 HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:0,,group-title="English",(IN) SONY TEN 2 SD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:0,,group-title="English",(IN) SONY TEN 2 HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226077/index.m3u8
-#EXTINF:0,,group-title="English",(IN) SONY TEN 3 SD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225933/index.m3u8
-#EXTINF:0,,group-title="English",(IN) SONY TEN 3 HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:0,, group-title="English",D SPORT(server1)
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226484/04.m3u8
-#EXTINF:0,, group-title="English",D SPORT(server2)
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226392/06.m3u8
-#EXTINF:0,, group-title="English",D SPORT(server3)
-http://125.17.105.168/PLTV/88888888/224/3221226392/06.m3u8
-#EXTINF:0,, group-title="English",D SPORT(server4)
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
-#EXTINF:0,, group-title="English",D SPORT(server5)
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
-#EXTINF:0,, group-title="English",D SPORT(server6)
-http://125.17.105.168/PLTV/88888888/224/3221226392/index.m3u8
-#EXTINF:0,, group-title="English",D SPORT(server7)
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
-#EXTINF:0,, group-title="English",SONY ESPN HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226076/02.m3u8
-#EXTINF:0,, group-title="English",SONY ESPN HD
-http://125.17.105.168/PLTV/88888888/224/3221226280/index.m3u8
-#EXTINF:0,, group-title="English",SONY SIX HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:0,, group-title="English",SONY TEN 1 HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:0,, group-title="English",SONY TEN 1
-http://125.17.105.168/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:0,, group-title="English",SONY TEN 2
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225932/04.m3u8
-#EXTINF:0,, group-title="English",SONY TEN 2 HD
-http://125.17.105.168/PLTV/88888888/224/3221226077/index.m3u8
-#EXTINF:0,, group-title="English",SONY TEN 3 HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226330/04.m3u8
-#EXTINF:0,, group-title="English",LE PLEX HD
-http://125.17.105.168/PLTV/88888888/224/3221226446/index.m3u8
-#EXTINF:0,, group-title="English",SONY MAX 2
-http://125.17.105.168/PLTV/88888888/224/3221225812/index.m3u8
-#EXTINF:0,, group-title="English",SONY PIX HD
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226486/index.m3u8
-#EXTINF:0,, group-title="English",SONY PIX
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226442/index.m3u8
