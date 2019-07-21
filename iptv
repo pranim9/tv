@@ -2,205 +2,235 @@
 #EXTINF:0,, group-title="Tamil", Star Vijay
 http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
 
-#EXTINF:0,, group-title="Tamil", Aditya TV
-https://msluk7s.akamaized.net/hls/live/2000172/adityatvmsl/adityatv_2000/chunklist.m3u8
+#EXTINF:0,, group-title="Tamil", Sun Tv
+http://bestiptv.info:8080/live//rs120QfXz4/2UxM5A4ses//64325.m3u8
 
-#EXTINF:0,, group-title="Tamil", Jaffna TV
+#EXTINF:0,, group-title="Tamil", K Tv
+http://bestiptv.info:8080/live//rs120QfXz4/2UxM5A4ses//105032.m3u8
+
+#EXTINF:0,, group-title="Tamil", Colors Tamil
+http://bestiptv.info:8080/live//rs120QfXz4/2UxM5A4ses//217101.m3u8
+
+#EXTINF:0,, group-title="Tamil", Raj Tv
+http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
+
+#EXTINF:0,, group-title="Tamil", Jaya Tv
+http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
+
+#EXTINF:0,, group-title="Tamil", Sun Musi
+http://bestiptv.info:8080/live//rs120QfXz4/2UxM5A4ses//64327.m3u8
+
+#EXTINF:0,, group-title="Tamil", Aditya TV
+http://bestiptv.info:8080/live//rs120QfXz4/2UxM5A4ses//134032.m3u8
+
+#EXTINF:0,, group-title="Local", Jaffna TV
 http://59d39900ebfb8.streamlock.net:1935/Jaffnatv/Jaffnatv/index.m3u8
+
+#EXTINF:0,, group-title="YuppTv", Sun Life
+https://ylive63-i.akamaihd.net/hls/live/691646/sunlife/sunlife_2000/chunklist.m3u8
+
+#EXTINF:0,, group-title="YuppTv", K Tv
+https://msleurope1s.akamaized.net/hls/live/2000130/ktvmsl/ktv_2500/chunklist.m3u8
+
+#EXTINF:0,, group-title="YuppTv", K Tv Europ
+https://ylive7-i.akamaihd.net/hls/live/681869/ktvuk/ktvuk_1200/chunklist.m3u8
 
 #EXTINF:0,, group-title="Tamil", Kalaignar
 https://acv.asianetmobiletvplus.com/channels/kalaignartv_czdxzllrwvzueajklabzwgwbwkxzsvky/chunklist.m3u8
 
-#EXTINF:0,, group-title="Tamil",TTD TAMIL
+#EXTINF:0,, group-title="Local", Tamizhan TV
+http://live.wmncdn.net/tamilan/live.stream/index.m3u8
+
+#EXTINF:0,, group-title="Local",TTD TAMIL
 http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,, group-title="Tamil",Astro Vaanavil
+#EXTINF:0,, group-title="Local",Astro Vaanavil
 http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
 
-#EXTINF:0,, group-title="Tamil",DAN TamiOli TV
+#EXTINF:0,, group-title="Local",DAN TamiOli TV
 http://askmedia.livebox.co.in/TamilOlihls/tamiloli.m3u8
 
-#EXTINF:0,, group-title="Tamil",DAN Music Tamil
+#EXTINF:0,, group-title="Local",DAN Music Tamil
 http://askmedia.livebox.co.in/DANMusichls/danmusic.m3u8
 
-#EXTINF:0,, group-title="Tamil",DAN News
+#EXTINF:0,, group-title="Local",DAN News
 http://askmedia.livebox.co.in/DANNewshls/dannews.m3u8
 
-#EXTINF:0,, group-title="Tamil",Ohm Tv
+#EXTINF:0,, group-title="Local",Ohm Tv
 http://askmedia.livebox.co.in/OhmTVhls/ohmtv.m3u8
 
-#EXTINF:0,, group-title="Tamil",Aathavan HD
+#EXTINF:0,, group-title="Local",Aathavan HD
 http://81.24.198.44/AthavanTR/tracks-v1a1/index.m3u8
 
-#EXTINF:0,, group-title="Tamil",Aathavan Music HD
+#EXTINF:0,, group-title="Local",Aathavan Music HD
 http://81.24.198.44/A-MI/tracks-v1a1/index.m3u8
 
-#EXTINF:0,, group-title="Tamil",Aathavan Classic HD
+#EXTINF:0,, group-title="Local",Aathavan Classic HD
 http://81.24.198.44/A-HI/tracks-v1a1/index.m3u8
 
-#EXTINF:0,, group-title="Tamil",Tamil Movie Classics
+#EXTINF:0,, group-title="Local",Tamil Movie Classics
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/index.m3u8
 
-#EXTINF:0,, group-title="Tamil",KBO Tamil Classics
+#EXTINF:0,, group-title="Local",KBO Tamil Classics
 https://msleurope2s.akamaized.net/hls/live/2000183/kboclassicmsl/kboclassic_1800/chunklist.m3u8
 
-#EXTINF:0,, group-title="Tamil", Canada EETTV
+#EXTINF:0,, group-title="Local", Canada EETTV
 http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
 
-#EXTINF:0,, group-title="Tamil",Eet TV
+#EXTINF:0,, group-title="Local",Eet TV
 https://live.streamjo.com/eetlive/eettv.m3u8
 
-#EXTINF:0,, group-title="Tamil", Dheeran TV
+#EXTINF:0,, group-title="Local", Dheeran TV
 http://acv.asianetmobiletvplus.com/channels/dheerantv_hjykdbbkxbzqjhwiilxdziveskvmspkt/chunklist.m3u8
 
-#EXTINF:0,, group-title="Tamil", Vasantham Tv
+#EXTINF:0,, group-title="Local", Vasantham Tv
 http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
 
-#EXTINF:0,, group-title="Tamil", Vasantham Singapore
+#EXTINF:0,, group-title="Local", Vasantham Singapore
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 
-#EXTINF:0,,group-title="Tamil",IBC Tamil
+#EXTINF:0,,group-title="Local",IBC Tamil
 https://ibctamil-live.ibctamil.com/transcode/ibctamil_mid.m3u8
 
-#EXTINF:0,,group-title="Tamil",IBC Bhakthi
+#EXTINF:0,,group-title="Local",IBC Bhakthi
 https://ibcbakthi-origin.ibctamil.com/transcode/ibcbakthi_mid.m3u8
 
-#EXTINF:0,,group-title="Tamil",IBC Tamil Comedy 1
+#EXTINF:0,,group-title="Local",IBC Tamil Comedy 1
 https://59299831b66d0.streamlock.net/ibc-comedy/smil:ibccomedy.smil/index.m3u8
 
-#EXTINF:0,,group-title="Tamil",IBC Tamil Comedy 2
+#EXTINF:0,,group-title="Local",IBC Tamil Comedy 2
 https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_mid.m3u8
 
-#EXTINF:0,,group-title="Tamil",IBC Tamil Music 1
+#EXTINF:0,,group-title="Local",IBC Tamil Music 1
 https://59299831b66d0.streamlock.net/ibc-music/smil:ibcmusic.smil/index.m3u8
 
-#EXTINF:0,,group-title="Tamil",IBC Mazhalai 1
+#EXTINF:0,,group-title="Local",IBC Mazhalai 1
 https://msleurope2s.akamaized.net/hls/live/2000183/ibcmazhalai/ibcmazhalai_600/chunklist.m3u8
 
-#EXTINF:0,,group-title="Tamil",IBC Mazhalai 2
+#EXTINF:0,,group-title="Local",IBC Mazhalai 2
 https://ibckids-origin.ibctamil.com/transcode/ibckids_mid.m3u8
 
-#EXTINF:0,,group-title="Tamil",IBC Tamil Events
+#EXTINF:0,,group-title="Local",IBC Tamil Events
 https://ibcevent-live.ibctamil.com/transcode/ibcevent_mid.m3u8
 
-#EXTINF:0,, group-title="Tamil",Ragam TV Tamil
+#EXTINF:0,, group-title="Local",Ragam TV Tamil
 http://account11.livebox.co.in/ntvhls/ntv.m3u8
 
-#EXTINF:0,, group-title="Tamil",Prime Tamil TV
+#EXTINF:0,, group-title="Local",Prime Tamil TV
 http://primevisualss.livebox.co.in/primetamilhls/live.m3u8
 
-#EXTINF:0,, group-title="Tamil",Tami MTV
+#EXTINF:0,, group-title="Local",Tami MTV
 http://santhora.de.flash.glb.ipercast.net/santhora.de-live/tamilmtv/tamilmtv/chunklist.m3u8
 
-#EXTINF:0,, group-title="Tamil",Tamil Vathanam
+#EXTINF:0,, group-title="Local",Tamil Vathanam
 http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
 
-#EXTINF:0,,group-title="Tamil",AKARAM TV
+#EXTINF:0,,group-title="Local",AKARAM TV
 http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
 
-#EXTINF:0,,group-title="Tamil",AKARAM MIX TV
+#EXTINF:0,,group-title="Local",AKARAM MIX TV
 http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
 
-#EXTINF:0,,group-title="Tamil",AKARAM MIX HD
+#EXTINF:0,,group-title="Local",AKARAM MIX HD
 http://akaram.zecast.net/akaram-live/akarammix1/index.m3u8
 
-#EXTINF:0,,group-title="Tamil",AKARAM Gallata TV
+#EXTINF:0,,group-title="Local",AKARAM Gallata TV
 http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
 
-#EXTINF:0,,group-title="Tamil",AKARAM Gallata HD
+#EXTINF:0,,group-title="Local",AKARAM Gallata HD
 http://akaram.zecast.net/akaram-live/akaramgalatta1/index.m3u8
 
-#EXTINF:0,,group-title="Tamil",AKARAM KIDZ TV
+#EXTINF:0,,group-title="Local",AKARAM KIDZ TV
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 
-#EXTINF:0,,group-title="Tamil",TVI tv
+#EXTINF:0,,group-title="Local",TVI tv
 http://live.tamilvision.tv:8081/TVI/HD/chunks.m3u8
 
-#EXTINF:0,,group-title="Tamil",MadhiMugam TV
+#EXTINF:0,,group-title="Local",MadhiMugam TV
 http://f2.vstream.online:1935/mmtv/ngrp:mmtv_all/index.m3u8
 
-#EXTINF:0,,group-title="Tamil",IBC Bakthi
+#EXTINF:0,,group-title="Local",IBC Bakthi
 https://59299831b66d0.streamlock.net/ibc-bakthi/smil:ibcbakthi.smil/index.m3u8
 
-#EXTINF:0,, group-title="Tamil",Vendharm TV
+#EXTINF:0,, group-title="Local",Vendharm TV
 http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
 
 #EXTINF:0,, group-title="Tamil",Vendhar TV
 http://45.79.203.234:1935/vendharm/myStream/playlist.m3u8
 
-#EXTINF:0,, group-title="Tamil",Vanavil Plus TV
+#EXTINF:0,, group-title="Local",Vanavil Plus TV
 http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
 
-#EXTINF:0,, group-title="Tamil",Vanavil TV
+#EXTINF:0,, group-title="Local",Vanavil TV
 http://jkzqgw3zrm9o-hls-live.wmncdn.net/969/vaanaviltv/live.stream/tracks-v1a1/index.m3u8
 
 #EXTINF:0,,group-title="Tamil",PEPPERS TV
 http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
 
-#EXTINF:0,, group-title="Tamil", Thirumalai HD
+#EXTINF:0,, group-title="Local", Thirumalai HD
 http://abcmedias2.livewebcast.in/abcmedias/_definst_/abcmediaslive.stream/chunks.m3u8
 
-#EXTINF:0,, group-title="Tamil", Sankara TV
+#EXTINF:0,, group-title="Local", Sankara TV
 http://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/tracks-v1a1/index.m3u8
 
-#EXTINF:0,, group-title="Tamil", Sri Krishna TV
+#EXTINF:0,, group-title="Local", Sri Krishna TV
 http://bsk.livebox.co.in/srikrishnatverdhls/srikrishnatverd.m3u8
 
-#EXTINF:0,,group-title="Tamil",VELICHAM TV
+#EXTINF:0,,group-title="Local",VELICHAM TV
 http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8
 
-#EXTINF:0,,group-title="Tamil",Palar TV
+#EXTINF:0,,group-title="Local",Palar TV
 http://209.58.178.82/palartvhls/live.m3u8
 
-#EXTINF:0,, group-title="Tamil", CITY TV HD
+#EXTINF:0,, group-title="Local", CITY TV HD
 http://209.58.177.73/citytvhls/live.m3u8
 
-#EXTINF:0,, group-title="Tamil", Maya TV
+#EXTINF:0,, group-title="Local", Maya TV
 http://209.58.180.138/mayatvhls/live.m3u8
 
-#EXTINF:0,, group-title="Tamil", Abi TV
+#EXTINF:0,, group-title="Local", Abi TV
 http://209.58.180.58/abitvpdyhls/abitvpdy.m3u8
 
-#EXTINF:0,,group-title="Tamil",Jawahar plus tv
+#EXTINF:0,,group-title="Local",Jawahar plus tv
 http://jawaharchannel.livebox.co.in/jwplushls/live.m3u8
 
 #EXTINF:0,, group-title="Tamil", Jay TV
 http://livematrix.in:1935/live/jay/index.m3u8
 
-#EXTINF:0,, group-title="Tamil", Shree TV
+#EXTINF:0,, group-title="Local", Shree TV
 http://livematrix.in:1935/shreetv/shreetv/index.m3u8
 
-#EXTINF:0,, group-title="Tamil", STS Tamil TV
+#EXTINF:0,, group-title="Local", STS Tamil TV
 http://santhora.de.flash.glb.ipercast.net/santhora.de-live/sts/index.m3u8
 
-#EXTINF:0,,group-title="Tamil",SANGAMAM TV
+#EXTINF:0,,group-title="Local",SANGAMAM TV
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
 
-#EXTINF:0,,group-title="Tamil",Nethra TV
+#EXTINF:0,,group-title="Local",Nethra TV
 http://dammikartmp.tulix.tv/slrc3/slrc3/index.m3u8
 
-#EXTINF:0,,group-title="Tamil",AARYA TV
+#EXTINF:0,,group-title="Local",AARYA TV
 http://account4.livebox.co.in/aaryaatvhls/live.m3u8
 
-#EXTINF:0,,group-title="Tamil",Tamil Business TV
+#EXTINF:0,,group-title="Local",Tamil Business TV
 http://santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv/index.m3u8
 
-#EXTINF:0,,group-title="Tamil",CTN TV
+#EXTINF:0,,group-title="Local",CTN TV
 http://45.79.203.234:1935/ctntv/myStream/index.m3u8
 
-#EXTINF:0,,group-title="Tamil",CVS TV
+#EXTINF:0,,group-title="Local",CVS TV
 http://45.79.203.234:1935/cvstv/myStream/index.m3u8
 
 #EXTINF:0,,group-title="International",Roopavahini
 http://dammikartmp.tulix.tv/slrc1/slrc1/index.m3u8
 
-#EXTINF:0,,group-title="Tamil",SR TV
+#EXTINF:0,,group-title="Local",SR TV
 http://210.18.155.135:1935/live/srtv/chunklist.m3u8
 
 #EXTINF:0,,group-title="Tamil",1Yes TV
 http://jayadmin.in:1935/1yestv/1yestv/chunklist.m3u8
 
-#EXTINF:0,,group-title="Tamil",Vendhar News
+#EXTINF:0,,group-title="Local",Vendhar News
 http://45.79.203.234:1935/vendharnews/myStream/chunklist.m3u8
 
 #EXTINF:0,, group-title="English",Cinema World
@@ -272,7 +302,6 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8
 #EXTINF:0,, group-title="English",Cartoon Network
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
-
 #EXTINF:0,, group-title="English",Times Now HD
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 
@@ -296,10 +325,3 @@ http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 
 #EXTINF:0,, group-title="International",Property Buzz TV
 http://cdn.live247stream.com/propertybuzz/tv/playlist.m3u8
-
-
-#EXTINF:0,, group-title="English",Republic TV
-https://repblicwld.s.llnwi.net/midroll/amagi_hls_data_republict-republictv/CDN/640x360_576000/index.m3u8
-
-#EXTINF:0,, group-title="Tamil Dish",Tamizhan TV
-http://live.wmncdn.net/tamilan/live.stream/index.m3u8
