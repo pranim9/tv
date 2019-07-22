@@ -233,127 +233,70 @@ http://jayadmin.in:1935/1yestv/1yestv/chunklist.m3u8
 #EXTINF:0,,group-title="Local",Vendhar News
 http://45.79.203.234:1935/vendharnews/myStream/chunklist.m3u8
 
-#EXTINF:0,, group-title="English",Cinema World
-http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8
+#EXTINF:0,, group-title="Infotainment", History18 Tamil HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_18_Tamil/History_18_Tamil_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
-#EXTINF:0,, group-title="English",Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8
+#EXTINF:0,, group-title="Infotainment", Discovery Channel Tamil HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Channel_Tamil/Discovery_Channel_Tamil_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
-#EXTINF:0,, group-title="English",National Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:0,, group-title="Infotainment", Travel XP Tamil
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Travel_XP_Tamil/Travel_XP_Tamil_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
-#EXTINF:0,, group-title="English",MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+#EXTINF:0,, group-title="Infotainment", BBC Earth HD Tamil HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_BBC_Earth_HD_Tamil/Sony_BBC_Earth_HD_Tamil_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
-#EXTINF:0,, group-title="English",MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
+#EXTINF:0,, group-title="Kids", Nick Tamil
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Tamil/Nick_Tamil_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
-#EXTINF:0,, group-title="English",MBC Drama HD
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
+#EXTINF:0,, group-title="Kids", Cartoon Network Tamil
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Tamil/Cartoon_Network_Tamil_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
-#EXTINF:0,, group-title="English",National Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0,, group-title="Kids", Pogo Tamil
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Pogo_Tamil/Pogo_Tamil_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
-#EXTINF:0,, group-title="English",National Geo HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:0,, group-title="Kids", Sonic Tamil
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/sonic_Tamil/sonic_Tamil_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
-#EXTINF:0,, group-title="English",Star Movies HD MiddleEast
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-
-#EXTINF:0,, group-title="English",Star World HD
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-
-#EXTINF:0,, group-title="English",MBC 1 HD
-http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
-
-#EXTINF:0,, group-title="English",MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-
-#EXTINF:0,, group-title="English",MBC 3 HD
-http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
-
-#EXTINF:0,, group-title="English",MBC Bollywood HD
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
-
-#EXTINF:0,, group-title="English",Victors TV Educational
-https://live.wmncdn.net/victers/live.stream/tracks-v1a1/index.m3u8
-
-#EXTINF:0,, group-title="English",HBO2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:0,, group-title="English",FOX Premium Cinema
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-
-#EXTINF:0,, group-title="English",FOX Premium Comedy
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-
-#EXTINF:0,, group-title="English",Max Prime
-http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
-
-#EXTINF:0,, group-title="English",FOX Premium Movies
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-
-#EXTINF:0,, group-title="English",Canada Star TV
-http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
-
-#EXTINF:0,, group-title="English",Weather TV
-http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8
-
-#EXTINF:0,, group-title="English",Cartoon Network
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-
-#EXTINF:0,, group-title="English",Times Now HD
-http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-
-#EXTINF:0,, group-title="Regional",NDA Channel
-http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
-
-#EXTINF:0,, group-title="Regional",Cine Voice
-http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-
-#EXTINF:0,, group-title="English",Mirror Now
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-
-#EXTINF:0,, group-title="International",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-
-#EXTINF:0,, group-title="International",TV5 Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-
-#EXTINF:0,,group-title="International",Texas Student TV
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-
-#EXTINF:0,, group-title="International",Property Buzz TV
-http://cdn.live247stream.com/propertybuzz/tv/playlist.m3u8
-
-
-#EXTINF:0,, group-title="Jio Tv", KBO
-https://stream.aslivetv.club:8443/kbo/tracks-v1a1/mono.m3u8
+#EXTINF:0,, group-title="Jio Tv", Colors Tamil HD
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Colors_Tamil_HD/Colors_Tamil_HD_JSRV9_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
 #EXTINF:0,, group-title="Jio Tv", Star Vijay
-https://live.aslivetv.club/tv/hot.php?cid=starvijay.m3u8
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Vijay/Star_Vijay_JSRV2_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
-#EXTINF:0,, group-title="Jio Tv", History 18 Tamil
+#EXTINF:0,, group-title="Jio Tv", Vijay Super HD
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Vijay_Super/Vijay_Super_JSRV12_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+
+#EXTINF:0,, group-title="Jio Tv", Vijay Super FHD
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Vijay_Super/Vijay_Super_JSRV12_4000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+
+#EXTINF:0,, group-title="Jio Tv", Vijay Super FHD+
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Vijay_Super/Vijay_Super_JSRV12_8000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+
+#EXTINF:0,, group-title="Jio Tv", Star Vijay HS HD
+http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
+
+#EXTINF:0,, group-title="Jio Tv", Raj TV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Raj_TV/Raj_TV_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+
+#EXTINF:0,, group-title="Jio Tv", Raj Music Tamil
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Raj_Musix/Raj_Musix_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+
+#EXTINF:0,, group-title="Jio Tv", Polimer News
+http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Polimer_News/Polimer_News_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+
+#EXTINF:0,, group-title="Jio Tv", Jio Tamil Hits HD
+http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Jio_Tamil_Hits_HD/Jio_Tamil_Hits_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+
+#EXTINF:0,, group-title="Jio Tv", Jio Tamil Hits FHD
+http://sngprecdnems14.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Jio_Tamil_Hits_HD/Jio_Tamil_Hits_HD_JSRV9_4000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+
+
+
+
+
+#EXTINF:0,, group-title="Aslive Tv", KBO
+https://stream.aslivetv.club:8443/kbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,, group-title="Aslive Tv", History 18 Tamil
 https://live.aslivetv.club/tv/j.php?cid=History_18_Tamil.m3u8
 
-#EXTINF:0,, group-title="Jio Tv", Talgu
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Telugu/Zee_Telugu_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
-
-#EXTINF:0,, group-title="Telugu", ETV Telengana
-http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/ETV_Telangana/ETV_Telangana_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:0,, group-title="Telugu", ETV Telugu
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Telugu/ETV_Telugu_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:0,,, group-title="Telugu", ETV Cinema
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Cinema/ETV_Cinema_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:0,, group-title="Telugu", ETV Plus
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Plus/ETV_Plus_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:0,, group-title="Telugu", ETV Abhiruchi
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Abhiruchi/ETV_Abhiruchi_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:0,, group-title="Telugu", ETV Life
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Life/ETV_Life_800.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:0,, group-title="Telugu", ETV Andhra Pradesh
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Andhra_pradesh/ETV_Andhra_pradesh_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:0,, group-title="Telugu", Zee Telugu
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Telugu/Zee_Telugu_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:0,, group-title="Telugu", Zee Cinemalu
-http://cshms1.airtel.tv/PLTV/88888888/224/3221226098/index.m3u8
