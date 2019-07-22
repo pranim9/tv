@@ -325,3 +325,13 @@ http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 
 #EXTINF:0,, group-title="International",Property Buzz TV
 http://cdn.live247stream.com/propertybuzz/tv/playlist.m3u8
+
+
+#EXTINF:0,, group-title="Jio TV", KBO
+https://stream.aslivetv.club:8443/kbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,, group-title="Jio TV", Star Vijay
+https://live.aslivetv.club/tv/hot.php?cid=starvijay.m3u8
+
+#EXTINF:0,, group-title="Jio Tv", History 18 Tamil
+https://live.aslivetv.club/tv/j.php?cid=History_18_Tamil.m3u8
