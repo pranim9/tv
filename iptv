@@ -339,21 +339,21 @@ https://live.aslivetv.club/tv/j.php?cid=History_18_Tamil.m3u8
 #EXTINF:0,, group-title="Jio Tv", Talgu
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Telugu/Zee_Telugu_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
-#EXTINF:-1, group-title="Telugu", ETV Telengana
+#EXTINF:0,, group-title="Telugu", ETV Telengana
 http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/ETV_Telangana/ETV_Telangana_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:-1, group-title="Telugu", ETV Telugu
+#EXTINF:0,, group-title="Telugu", ETV Telugu
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Telugu/ETV_Telugu_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:-1, group-title="Telugu", ETV Cinema
+#EXTINF:0,,, group-title="Telugu", ETV Cinema
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Cinema/ETV_Cinema_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:-1, group-title="Telugu", ETV Plus
+#EXTINF:0,, group-title="Telugu", ETV Plus
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Plus/ETV_Plus_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:-1, group-title="Telugu", ETV Abhiruchi
+#EXTINF:0,, group-title="Telugu", ETV Abhiruchi
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Abhiruchi/ETV_Abhiruchi_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:-1, group-title="Telugu", ETV Life
+#EXTINF:0,, group-title="Telugu", ETV Life
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Life/ETV_Life_800.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:-1, group-title="Telugu", ETV Andhra Pradesh
+#EXTINF:0,, group-title="Telugu", ETV Andhra Pradesh
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Andhra_pradesh/ETV_Andhra_pradesh_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:-1, group-title="Telugu", Zee Telugu
+#EXTINF:0,, group-title="Telugu", Zee Telugu
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Telugu/Zee_Telugu_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:-1, group-title="Telugu", Zee Cinemalu
+#EXTINF:0,, group-title="Telugu", Zee Cinemalu
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226098/index.m3u8
