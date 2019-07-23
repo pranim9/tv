@@ -2,33 +2,6 @@
 #EXTINF:-1, group-title="Tamil", Star Vijay
 http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
 
-#EXTINF:-1, group-title="Tamil", Kalaignar
-https://acv.asianetmobiletvplus.com/channels/kalaignartv_czdxzllrwvzueajklabzwgwbwkxzsvky/chunklist.m3u8
-
-
-
-#EXTINF:-1, group-title="SunNXT", Sun Tv
-http://bestiptv.info:8080/live//rs120QfXz4/2UxM5A4ses//64325.m3u8
-
-#EXTINF:-1, group-title="SunNXT", K Tv
-http://bestiptv.info:8080/live//rs120QfXz4/2UxM5A4ses//105032.m3u8
-
-#EXTINF:-1, group-title="SunNXT", Colors Tamil
-http://bestiptv.info:8080/live//rs120QfXz4/2UxM5A4ses//217101.m3u8
-
-#EXTINF:-1, group-title="SunNXT", Raj Tv
-http://bestiptv.info:8080/live//rs120QfXz4/2UxM5A4ses//64288.m3u8
-
-#EXTINF:-1, group-title="SunNXT", Jaya Tv
-http://bestiptv.info:8080/live//rs120QfXz4/2UxM5A4ses//217097.m3u8
-
-#EXTINF:-1, group-title="SunNXT", Sun Musi
-http://bestiptv.info:8080/live//rs120QfXz4/2UxM5A4ses//64327.m3u8
-
-#EXTINF:-1, group-title="SunNXT", Aditya TV
-http://bestiptv.info:8080/live//rs120QfXz4/2UxM5A4ses//134032.m3u8
-
-
 
 #EXTINF:-1, group-title="JioTV", SUN TV
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sun_TV_HD/Sun_TV_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
@@ -89,40 +62,6 @@ http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Polimer_News/Polime
 
 #EXTINF:-1, group-title="JioTV", Jio Tamil Hits HD
 http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Jio_Tamil_Hits_HD/Jio_Tamil_Hits_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
-#EXTINF:-1, group-title="JioTV", Star World SD FHD
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_World/Star_World_JSRV11_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
-
-#EXTINF:-1, group-title="JioTV", Star World Premiere HD FHD+
-http://sngprecdnems14.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_World_Premeir_HD/Star_World_Premeir_HD_JSRV7_8000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
-
-#EXTINF:-1, group-title="JioTV", Colors Infinity HD
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Colors_Infinity_HD/Colors_Infinity_HD_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
-#EXTINF:-1, group-title="JioTV", Sony Pix HD
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_Pix_HD/Sony_Pix_HD_JSRV1_8000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
-#EXTINF:-1, group-title="JioTV", AXN HD
-http://cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/index.m3u8
-
-#EXTINF:-1, group-title="JioTV", WB
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/WB/WB_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
-#EXTINF:-1, group-title="JioTV", HBO HD
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/HBO_HD/HBO_HD_JSRV4_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
-#EXTINF:-1, group-title="JioTV", Comedy Central HD
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Comedy_Central_HD/Comedy_Central_HD_8000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
-#EXTINF:-1, group-title="JioTV", Movies Now
-http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Movies_Now_HD/Movies_Now_HD_JSRV6_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
-#EXTINF:-1, group-title="JioTV", MNX
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Movies_Now2_HD/Movies_Now2_HD_JSRV6_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
-#EXTINF:-1, group-title="JioTV", MN+
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MNPLUS/MNPLUS_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
 
 
 #EXTINF:-1, group-title="YuppTv", Sun Life
