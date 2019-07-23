@@ -67,10 +67,10 @@ http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Jio_Tamil_Hits_HD/J
 #EXTINF:-1, group-title="YuppTv", Sun Life
 https://ylive63-i.akamaihd.net/hls/live/691646/sunlife/sunlife_2000/chunklist.m3u8
 
-#EXTINF:-1, group-title="YuppTv", K Tv
+#EXTINF:-1, group-title="YuppTv", YUP KTv
 https://msleurope1s.akamaized.net/hls/live/2000130/ktvmsl/ktv_2500/chunklist.m3u8
 
-#EXTINF:-1, group-title="YuppTv", K Tv Europ
+#EXTINF:-1, group-title="YuppTv", YUP KTvEurop
 https://ylive7-i.akamaihd.net/hls/live/681869/ktvuk/ktvuk_1200/chunklist.m3u8
 
 
