@@ -38,7 +38,7 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Channel_Tamil/Dis
 #EXTINF:-1, group-title="JioTV", Travel XP Tamil
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Travel_XP_Tamil/Travel_XP_Tamil_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
-#EXTINF:-1, group-title="JioTV", BBC Earth HD Tamil
+#EXTINF:-1, group-title="JioTV", Sony BBC Earth HD Tamil
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_BBC_Earth_HD_Tamil/Sony_BBC_Earth_HD_Tamil_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1, group-title="JioTV", Nick Tamil
