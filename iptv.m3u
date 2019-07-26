@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="JioTV", Vijay HS
-http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
 
 #EXTINF:-1, group-title="JioTV", SUN TV
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sun_TV_HD/Sun_TV_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
@@ -101,10 +99,29 @@ http://sngprecdnems14.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Movies_Se
 #EXTINF:-1, group-title="JioTV", AXN HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/AXN_HD/AXN_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
+#EXTINF:-1, group-title="JioTV", StarSports1 Tamil
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Sports_1_Tamil/Star_Sports_1_Tamil_JSRV13_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
-#EXTINF:-1, group-title="JioTV", Star Sports1
+#EXTINF:-1, group-title="JioTv", StarSports2
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_HD2/Star_Sports_HD2_JSRV11_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1, group-title="JioTv",, Star Select1
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1_JSRV10_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1, group-title="JioTv", Star Select2 
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2_JSRV6_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1, group-title="JioTv", StarSports First
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_First/Star_Sports_First_JSRV12_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+
+
+#EXTINF:-1, group-title="Hotstar", Star Sports1
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/master_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 
+
+#EXTINF:-1, group-title="Hotstar", Vijay HS
+http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
 
 
 
