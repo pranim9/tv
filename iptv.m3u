@@ -117,10 +117,30 @@ http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_First
 
 
 #EXTINF:-1, group-title="Airtel", A-SUN TV
+
 https://live.airtel.tv/suntv/smil:common.smil/chunklist_b364000_sleng.m3u8
 
+
+
 #EXTINF:-1, group-title="Airtel", A-SUN Life
+
 http://live.airtel.tv/sunlife/smil:common.smil/chunklist_b896000_sleng.m3u8
+
+#EXTINF:-1, group-title="Airtel", A-K TV
+
+https://live.airtelxstream.in/ktv/smil:common.smil/chunklist_b896000_sleng.m3u8
+
+#EXTINF:-1, group-title="Airtel", A-Zee Tamil
+
+https://live.airtelxstream.in/zeetamil/smil:common.smil/chunklist_b896000_sleng.m3u8
+
+#EXTINF:-1, group-title="Airtel", A-SUN Music
+https://live.airtelxstream.in/sunmusic/smil:common.smil/chunklist_b896000_sleng.m3u8
+
+#EXTINF:-1, group-title="Airtel", A-Raj TV
+
+https://live.airtelxstream.in/rajtv/smil:common.smil/chunklist_b896000_sleng.m3u8
+
 
 
 
@@ -129,6 +149,7 @@ http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
 
 #EXTINF:-1, group-title="Hotstar", Star Sports1
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/master_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+
 
 
 
