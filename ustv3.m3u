@@ -1,760 +1,519 @@
 #EXTM3U
-#EXTINF:0,A&E US (1018515)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",A&E US (1018515)
 https://api.vpnmate.com/play/?vlc=1&channel=1018515&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,A&E US (200410)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",A&E US (200410)
 https://api.vpnmate.com/play/?vlc=1&channel=200410&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,A&E US (203844)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",A&E US (203844)
 https://api.vpnmate.com/play/?vlc=1&channel=203844&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,ABC US (206053)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",ABC US (206053)
 https://api.vpnmate.com/play/?vlc=1&channel=206053&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Adult Swim (east) US (100067)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Adult Swim (east) US (100067)
 https://api.vpnmate.com/play/?vlc=1&channel=100067&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,AMC (5025182)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",AMC (5025182)
 https://api.vpnmate.com/play/?vlc=1&channel=5025182&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,AMC (East) US (406510)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",AMC (East) US (406510)
 https://api.vpnmate.com/play/?vlc=1&channel=406510&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,AMC (East) US (3005883)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",AMC (East) US (3005883)
 https://api.vpnmate.com/play/?vlc=1&channel=3005883&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,AMC (East) US (200418)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",AMC (East) US (200418)
 https://api.vpnmate.com/play/?vlc=1&channel=200418&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,American Heroes Channel (5025109)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",American Heroes Channel (5025109)
 https://api.vpnmate.com/play/?vlc=1&channel=5025109&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,American Heroes Channel (1018493)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",American Heroes Channel (1018493)
 https://api.vpnmate.com/play/?vlc=1&channel=1018493&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Animal Planet (5025077)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Animal Planet (5025077)
 https://api.vpnmate.com/play/?vlc=1&channel=5025077&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Animal Planet US (200433)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Animal Planet US (200433)
 https://api.vpnmate.com/play/?vlc=1&channel=200433&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Antenna Network (232559)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Antenna Network (232559)
 https://api.vpnmate.com/play/?vlc=1&channel=232559&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,ASPiRE TV (1123531)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",ASPiRE TV (1123531)
 https://api.vpnmate.com/play/?vlc=1&channel=1123531&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,AXS TV (3010993)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",AXS TV (3010993)
 https://api.vpnmate.com/play/?vlc=1&channel=3010993&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Baby Tv US (213296)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Baby Tv US (213296)
 https://api.vpnmate.com/play/?vlc=1&channel=213296&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,BBC America (5025389)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",BBC America (5025389)
 https://api.vpnmate.com/play/?vlc=1&channel=5025389&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,BBC America (1018489)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",BBC America (1018489)
 https://api.vpnmate.com/play/?vlc=1&channel=1018489&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,BBC World News (5025464)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",BBC World News (5025464)
 https://api.vpnmate.com/play/?vlc=1&channel=5025464&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Bet (east) US (204163)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Bet (east) US (204163)
 https://api.vpnmate.com/play/?vlc=1&channel=204163&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Bet (west) US (206079)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Bet (west) US (206079)
 https://api.vpnmate.com/play/?vlc=1&channel=206079&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Bet Her US (1018484)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Bet Her US (1018484)
 https://api.vpnmate.com/play/?vlc=1&channel=1018484&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Bloomberg US (200250)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Bloomberg US (200250)
 https://api.vpnmate.com/play/?vlc=1&channel=200250&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Boomerang (3005808)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Boomerang (3005808)
 https://api.vpnmate.com/play/?vlc=1&channel=3005808&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Boomerang (206260)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Boomerang (206260)
 https://api.vpnmate.com/play/?vlc=1&channel=206260&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Boomerang (5007177)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Boomerang (5007177)
 https://api.vpnmate.com/play/?vlc=1&channel=5007177&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Bounce Network (1018479)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Bounce Network (1018479)
 https://api.vpnmate.com/play/?vlc=1&channel=1018479&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Bravo (5013461)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Bravo (5013461)
 https://api.vpnmate.com/play/?vlc=1&channel=5013461&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Bravo (East) (3005893)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Bravo (East) (3005893)
 https://api.vpnmate.com/play/?vlc=1&channel=3005893&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Bravo (East) (1024210)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Bravo (East) (1024210)
 https://api.vpnmate.com/play/?vlc=1&channel=1024210&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Bravo US (6060)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Bravo US (6060)
 https://api.vpnmate.com/play/?vlc=1&channel=6060&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Bravo US (1059451)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Bravo US (1059451)
 https://api.vpnmate.com/play/?vlc=1&channel=1059451&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,BTN (5025017)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",BTN (5025017)
 https://api.vpnmate.com/play/?vlc=1&channel=5025017&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Buzzr TV (1018476)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Buzzr TV (1018476)
 https://api.vpnmate.com/play/?vlc=1&channel=1018476&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,C-SPAN (288771)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",C-SPAN (288771)
 https://api.vpnmate.com/play/?vlc=1&channel=288771&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,C-SPAN 2 (288769)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",C-SPAN 2 (288769)
 https://api.vpnmate.com/play/?vlc=1&channel=288769&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,C-SPAN 3 (288770)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",C-SPAN 3 (288770)
 https://api.vpnmate.com/play/?vlc=1&channel=288770&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Cartoon Network (5025164)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Cartoon Network (5025164)
 https://api.vpnmate.com/play/?vlc=1&channel=5025164&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Cartoon Network US (200498)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Cartoon Network US (200498)
 https://api.vpnmate.com/play/?vlc=1&channel=200498&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,CBS KCAL9 (3006498)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",CBS KCAL9 (3006498)
 https://api.vpnmate.com/play/?vlc=1&channel=3006498&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,CBS KCOP (1119676)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",CBS KCOP (1119676)
 https://api.vpnmate.com/play/?vlc=1&channel=1119676&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,CBS Sports Network (5025069)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",CBS Sports Network (5025069)
 https://api.vpnmate.com/play/?vlc=1&channel=5025069&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Cinemax (5025353)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Cinemax (5025353)
 https://api.vpnmate.com/play/?vlc=1&channel=5025353&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Cinemax (East) US (200470)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Cinemax (East) US (200470)
 https://api.vpnmate.com/play/?vlc=1&channel=200470&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Cinemax (West) US (215023)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Cinemax (West) US (215023)
 https://api.vpnmate.com/play/?vlc=1&channel=215023&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,CineMax Action US (1018459)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",CineMax Action US (1018459)
 https://api.vpnmate.com/play/?vlc=1&channel=1018459&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,CMT (3005913)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",CMT (3005913)
 https://api.vpnmate.com/play/?vlc=1&channel=3005913&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,CNBC (5004336)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",CNBC (5004336)
 https://api.vpnmate.com/play/?vlc=1&channel=5004336&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,CNBC US (6081)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",CNBC US (6081)
 https://api.vpnmate.com/play/?vlc=1&channel=6081&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,CNBC World (5007320)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",CNBC World (5007320)
 https://api.vpnmate.com/play/?vlc=1&channel=5007320&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,CNN (5013468)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",CNN (5013468)
 https://api.vpnmate.com/play/?vlc=1&channel=5013468&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,CNN US (201039)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",CNN US (201039)
 https://api.vpnmate.com/play/?vlc=1&channel=201039&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,CNN US (203910)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",CNN US (203910)
 https://api.vpnmate.com/play/?vlc=1&channel=203910&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,CNN US (200503)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",CNN US (200503)
 https://api.vpnmate.com/play/?vlc=1&channel=200503&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,CNN US (3005807)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",CNN US (3005807)
 https://api.vpnmate.com/play/?vlc=1&channel=3005807&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Comedy Central US (200412)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Comedy Central US (200412)
 https://api.vpnmate.com/play/?vlc=1&channel=200412&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Comedy Central US (206060)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Comedy Central US (206060)
 https://api.vpnmate.com/play/?vlc=1&channel=206060&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Cooking Channel (5003714)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Cooking Channel (5003714)
 https://api.vpnmate.com/play/?vlc=1&channel=5003714&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Cooking Channel US (200640)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Cooking Channel US (200640)
 https://api.vpnmate.com/play/?vlc=1&channel=200640&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Cowboy Channel (1108734)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Cowboy Channel (1108734)
 https://api.vpnmate.com/play/?vlc=1&channel=1108734&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,COZI Network (200556)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",COZI Network (200556)
 https://api.vpnmate.com/play/?vlc=1&channel=200556&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Crime and Investigation (1018444)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Crime and Investigaton (1018444)
 https://api.vpnmate.com/play/?vlc=1&channel=1018444&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,CW PA US (200600)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",CW PA US (200600)
 https://api.vpnmate.com/play/?vlc=1&channel=200600&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Decades Network (288605)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Decades Network (288605)
 https://api.vpnmate.com/play/?vlc=1&channel=288605&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Destination America (5007830)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Destination America (5007830)
 https://api.vpnmate.com/play/?vlc=1&channel=5007830&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Destination America US (204220)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Destination America US (204220)
 https://api.vpnmate.com/play/?vlc=1&channel=204220&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Discovery (5025076)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Discovery (5025076)
 https://api.vpnmate.com/play/?vlc=1&channel=5025076&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Discovery Channel US (200428)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Discovery Channel US (200428)
 https://api.vpnmate.com/play/?vlc=1&channel=200428&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Discovery Family (5025095)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Discovery Family (5025095)
 https://api.vpnmate.com/play/?vlc=1&channel=5025095&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Discovery Family US (206062)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Discovery Family US (206062)
 https://api.vpnmate.com/play/?vlc=1&channel=206062&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Discovery Life (244568)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Discovery Life (244568)
 https://api.vpnmate.com/play/?vlc=1&channel=244568&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Discovery Life Channel (5025209)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Discovery Life Channel (5025209)
 https://api.vpnmate.com/play/?vlc=1&channel=5025209&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Disney Channel (5025023)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Disney Channel (5025023)
 https://api.vpnmate.com/play/?vlc=1&channel=5025023&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Disney Channel US (200585)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Disney Channel US (200585)
 https://api.vpnmate.com/play/?vlc=1&channel=200585&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Disney Jr US (201064)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Disney Jr US (201064)
 https://api.vpnmate.com/play/?vlc=1&channel=201064&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Disney Junior (5025272)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Disney Junior (5025272)
 https://api.vpnmate.com/play/?vlc=1&channel=5025272&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Disney XD (5012865)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Disney XD (5012865)
 https://api.vpnmate.com/play/?vlc=1&channel=5012865&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Disney Xd US (205901)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Disney Xd US (205901)
 https://api.vpnmate.com/play/?vlc=1&channel=205901&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Disney Xd US (201063)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Disney Xd US (201063)
 https://api.vpnmate.com/play/?vlc=1&channel=201063&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,DIY (5025093)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",DIY (5025093)
 https://api.vpnmate.com/play/?vlc=1&channel=5025093&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,DIY Network US (206527)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",DIY Network US (206527) 
 https://api.vpnmate.com/play/?vlc=1&channel=206527&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Do It Yourself Network (1018425)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Do It Yourself Network (1018425)
 https://api.vpnmate.com/play/?vlc=1&channel=1018425&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Dog TV (1120659)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Dog TV (1120659)
 https://api.vpnmate.com/play/?vlc=1&channel=1120659&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,E! Entertainment (5000441)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",E! Entertainment (5000441)
 https://api.vpnmate.com/play/?vlc=1&channel=5000441&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,E! Entertainment (Eest) (200529)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",E! Entertainment (Eest) (200529)
 https://api.vpnmate.com/play/?vlc=1&channel=200529&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,E! Entertainment (West) (1018422)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",E! Entertainment (West) (1018422)
 https://api.vpnmate.com/play/?vlc=1&channel=1018422&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,EPIX (East) (200254)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",EPIX (East) (200254)
 https://api.vpnmate.com/play/?vlc=1&channel=200254&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,EPIX Hits (1018419)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",EPIX Hits (1018419)
 https://api.vpnmate.com/play/?vlc=1&channel=1018419&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Food Network (5005414)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Food Network (5005414)
 https://api.vpnmate.com/play/?vlc=1&channel=5005414&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Food Network (East) (3005826)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Food Network (East) (3005826)
 https://api.vpnmate.com/play/?vlc=1&channel=3005826&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Food Network (East) (6070)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Food Network (East) (6070)
 https://api.vpnmate.com/play/?vlc=1&channel=6070&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,FOX Business Network (5012378)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",FOX Business Network (5012378)
 https://api.vpnmate.com/play/?vlc=1&channel=5012378&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Fox Business US (203857)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Fox Business US (203857)
 https://api.vpnmate.com/play/?vlc=1&channel=203857&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,FOX News Channel (5013239)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",FOX News Channel (5013239)
 https://api.vpnmate.com/play/?vlc=1&channel=5013239&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Fox News US (200551)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Fox News US (200551)
 https://api.vpnmate.com/play/?vlc=1&channel=200551&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,FOX News US (6077)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",FOX News US (6077)
 https://api.vpnmate.com/play/?vlc=1&channel=6077&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Fox Sports 1 (5025039)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Fox Sports 1 (5025039)
 https://api.vpnmate.com/play/?vlc=1&channel=5025039&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Freeform (3005892)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Freeform (3005892)
 https://api.vpnmate.com/play/?vlc=1&channel=3005892&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,FUSE TV (West) (3005891)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",FUSE TV (West) (3005891)
 https://api.vpnmate.com/play/?vlc=1&channel=3005891&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,FX (5016256)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",FX (5016256)
 https://api.vpnmate.com/play/?vlc=1&channel=5016256&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,FX Movie Channel (200421)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",FX Movie Channel (200421)
 https://api.vpnmate.com/play/?vlc=1&channel=200421&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,FXM (5025097)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",FXM (5025097)
 https://api.vpnmate.com/play/?vlc=1&channel=5025097&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,FXX (5013435)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",FXX (5013435)
 https://api.vpnmate.com/play/?vlc=1&channel=5013435&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,FYI (East) (3005827)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",FYI (East) (3005827)
 https://api.vpnmate.com/play/?vlc=1&channel=3005827&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Game Show Network (East) (3005973)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Game Show Network (East) (3005973)
 https://api.vpnmate.com/play/?vlc=1&channel=3005973&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Grit Network (1022164)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Grit Network (1022164)
 https://api.vpnmate.com/play/?vlc=1&channel=1022164&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Hallmark Channel (5025747)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Hallmark Channel (5025747)
 https://api.vpnmate.com/play/?vlc=1&channel=5025747&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Hallmark Channel US (3005920)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Hallmark Channel US (3005920)
 https://api.vpnmate.com/play/?vlc=1&channel=3005920&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Hallmark Drama (5025736)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Hallmark Drama (5025736)
 https://api.vpnmate.com/play/?vlc=1&channel=5025736&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Hallmark Drama US (3005879)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Hallmark Drama US (3005879)
 https://api.vpnmate.com/play/?vlc=1&channel=3005879&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Hallmark Movies & Mysteries (5025746)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Hallmark Movies & Mysteries (5025746)
 https://api.vpnmate.com/play/?vlc=1&channel=5025746&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Hallmark Movies Mysteries US (3005853)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Hallmark Movies Mysteries US (3005853)
 https://api.vpnmate.com/play/?vlc=1&channel=3005853&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Hallmark Movies Mysteries US (6067)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Hallmark Movies Mysteries US (6067)
 https://api.vpnmate.com/play/?vlc=1&channel=6067&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,HBO (5025349)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",HBO (5025349)
 https://api.vpnmate.com/play/?vlc=1&channel=5025349&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,HBO (East) (1044296)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",HBO (East) (1044296)
 https://api.vpnmate.com/play/?vlc=1&channel=1044296&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,HBO (East) (3005871)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",HBO (East) (3005871)
 https://api.vpnmate.com/play/?vlc=1&channel=3005871&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,HBO (West) (3005874)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",HBO (West) (3005874)
 https://api.vpnmate.com/play/?vlc=1&channel=3005874&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,HBO (West) (1025818)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",HBO (West) (1025818)
 https://api.vpnmate.com/play/?vlc=1&channel=1025818&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,HBO 2 (East) (1018358)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",HBO 2 (East) (1018358)
 https://api.vpnmate.com/play/?vlc=1&channel=1018358&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,HBO Comedy (East) (1018357)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",HBO Comedy (East) (1018357)
 https://api.vpnmate.com/play/?vlc=1&channel=1018357&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,HBO Family (East) (1018356)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",HBO Family (East) (1018356)
 https://api.vpnmate.com/play/?vlc=1&channel=1018356&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,HBO Signature (East) (1018355)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",HBO Signature (East) (1018355)
 https://api.vpnmate.com/play/?vlc=1&channel=1018355&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,HBO Zone (East) US (1018354)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",HBO Zone (East) US (1018354)
 https://api.vpnmate.com/play/?vlc=1&channel=1018354&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,HBO Zone (East) US (204614)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",HBO Zone (East) US (204614)
 https://api.vpnmate.com/play/?vlc=1&channel=204614&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,HGTV (5025075)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",HGTV (5025075)
 https://api.vpnmate.com/play/?vlc=1&channel=5025075&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,HGTV (East) (1018349)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",HGTV (East) (1018349)
 https://api.vpnmate.com/play/?vlc=1&channel=1018349&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,HGTV (East) (6069)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",HGTV (East) (6069)
 https://api.vpnmate.com/play/?vlc=1&channel=6069&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,HGTV (West) (1044606)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",HGTV (West) (1044606)
 https://api.vpnmate.com/play/?vlc=1&channel=1044606&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,History Channel US (200584)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",History Channel US (200584)
 https://api.vpnmate.com/play/?vlc=1&channel=200584&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,HLN (5025167)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",HLN (5025167)
 https://api.vpnmate.com/play/?vlc=1&channel=5025167&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,HLN (3005797)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",HLN (3005797)
 https://api.vpnmate.com/play/?vlc=1&channel=3005797&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,IFC (5025180)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",IFC (5025180)
 https://api.vpnmate.com/play/?vlc=1&channel=5025180&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,IFC US (3005875)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",IFC US (3005875)
 https://api.vpnmate.com/play/?vlc=1&channel=3005875&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,INSP (215691)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",INSP (215691)
 https://api.vpnmate.com/play/?vlc=1&channel=215691&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Investigation Discovery (5025091)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Investigation Discovery (5025091)
 https://api.vpnmate.com/play/?vlc=1&channel=5025091&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Investigation Discovery US (200524)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Investigation Discovery US (200524)
 https://api.vpnmate.com/play/?vlc=1&channel=200524&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,ION US (1018341)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",ION US (1018341)
 https://api.vpnmate.com/play/?vlc=1&channel=1018341&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,KTLA (1102037)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",KTLA (1102037)
 https://api.vpnmate.com/play/?vlc=1&channel=1102037&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,KTVU Plus (215699)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",KTVU Plus (215699)
 https://api.vpnmate.com/play/?vlc=1&channel=215699&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Lifetime Movies (East) (3005852)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Lifetime Movies (East) (3005852)
 https://api.vpnmate.com/play/?vlc=1&channel=3005852&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Lifetime Network (East) (3005921)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Lifetime Network (East) (3005921)
 https://api.vpnmate.com/play/?vlc=1&channel=3005921&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,LOGO (East) (3005916)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",LOGO (East) (3005916)
 https://api.vpnmate.com/play/?vlc=1&channel=3005916&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,MAVtv (3009584)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",MAVtv (3009584)
 https://api.vpnmate.com/play/?vlc=1&channel=3009584&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,MeTV (1018335)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",MeTV (1018335)
 https://api.vpnmate.com/play/?vlc=1&channel=1018335&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,MLB Network (5024541)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",MLB Network (5024541)
 https://api.vpnmate.com/play/?vlc=1&channel=5024541&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,MotorTrend US (5012092)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",MotorTrend US (5012092)
 https://api.vpnmate.com/play/?vlc=1&channel=5012092&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,MotorTrend US (200487)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",MotorTrend US (200487)
 https://api.vpnmate.com/play/?vlc=1&channel=200487&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,MOVIEplex (1102882)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",MOVIEplex (1102882)
 https://api.vpnmate.com/play/?vlc=1&channel=1102882&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,MSNBC (5010283)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",MSNBC (5010283)
 https://api.vpnmate.com/play/?vlc=1&channel=5010283&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,MSNBC US (6079)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",MSNBC US (6079)
 https://api.vpnmate.com/play/?vlc=1&channel=6079&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,MTV 2 US (3005911)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",MTV 2 US (3005911)
 https://api.vpnmate.com/play/?vlc=1&channel=3005911&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Mtv Live US (200726)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Mtv Live US (200726)
 https://api.vpnmate.com/play/?vlc=1&channel=200726&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,MTV US (200557)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",MTV US (200557)
 https://api.vpnmate.com/play/?vlc=1&channel=200557&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Nat Geo US (2728274)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Nat Geo US (2728274)
 https://api.vpnmate.com/play/?vlc=1&channel=2728274&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Nat Geo US (3005838)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Nat Geo US (3005838)
 https://api.vpnmate.com/play/?vlc=1&channel=3005838&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Nat Geo Wild US (3005837)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Nat Geo Wild US (3005837)
 https://api.vpnmate.com/play/?vlc=1&channel=3005837&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,National Geographic (5007427)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",National Geographic (5007427)
 https://api.vpnmate.com/play/?vlc=1&channel=5007427&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,National Geographic Wild (5015801)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",National Geographic Wild (5015801)
 https://api.vpnmate.com/play/?vlc=1&channel=5015801&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,NBC Sports Network (5025159)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",NBC Sports Network (5025159)
 https://api.vpnmate.com/play/?vlc=1&channel=5025159&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,NHL Network (5025183)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",NHL Network (5025183)
 https://api.vpnmate.com/play/?vlc=1&channel=5025183&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Nick Jr US (3005814)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Nick Jr US (3005814)
 https://api.vpnmate.com/play/?vlc=1&channel=3005814&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Nickelodeon US (200560)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Nickelodeon US (200560)
 https://api.vpnmate.com/play/?vlc=1&channel=200560&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,NickMusic US (3005902)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",NickMusic US (3005902)
 https://api.vpnmate.com/play/?vlc=1&channel=3005902&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Nicktoons US (3005813)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Nicktoons US (3005813)
 https://api.vpnmate.com/play/?vlc=1&channel=3005813&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,ONE AMERICAN NEWS (OAN) (1119494)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",ONE AMERICAN NEWS (OAN) (1119494)
 https://api.vpnmate.com/play/?vlc=1&channel=1119494&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,OWN (5025098)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",OWN (5025098)
 https://api.vpnmate.com/play/?vlc=1&channel=5025098&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,OWN US (203864)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",OWN US (203864)
 https://api.vpnmate.com/play/?vlc=1&channel=203864&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Oxygen (5025099)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Oxygen (5025099)
 https://api.vpnmate.com/play/?vlc=1&channel=5025099&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Oxygen (203723)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Oxygen (203723)
 https://api.vpnmate.com/play/?vlc=1&channel=203723&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Paramount Network (203900)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Paramount Network (203900)
 https://api.vpnmate.com/play/?vlc=1&channel=203900&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,PBS Kids US (3006513)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",PBS Kids US (3006513)
 https://api.vpnmate.com/play/?vlc=1&channel=3006513&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,POP (East) (5025261)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",POP (East) (5025261)
 https://api.vpnmate.com/play/?vlc=1&channel=5025261&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Pursuit Channel (1119407)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Pursuit Channel (1119407)
 https://api.vpnmate.com/play/?vlc=1&channel=1119407&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,ReelzChannel (1131227)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",ReelzChannel (1131227)
 https://api.vpnmate.com/play/?vlc=1&channel=1131227&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,RFD TV (1119495)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",RFD TV (1119495)
 https://api.vpnmate.com/play/?vlc=1&channel=1119495&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Science Channel (5002754)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Science Channel (5002754)
 https://api.vpnmate.com/play/?vlc=1&channel=5002754&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Science US (200383)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Science US (200383)
 https://api.vpnmate.com/play/?vlc=1&channel=200383&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Showtime (5025174)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Showtime (5025174)
 https://api.vpnmate.com/play/?vlc=1&channel=5025174&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Showtime (east) US (1018264)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Showtime (east) US (1018264)
 https://api.vpnmate.com/play/?vlc=1&channel=1018264&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Showtime (east) US (3005866)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Showtime (east) US (3005866)
 https://api.vpnmate.com/play/?vlc=1&channel=3005866&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Showtime (west) US (1018263)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Showtime (west) US (1018263)
 https://api.vpnmate.com/play/?vlc=1&channel=1018263&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Showtime (west) US (3005864)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Showtime (west) US (3005864)
 https://api.vpnmate.com/play/?vlc=1&channel=3005864&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Showtime (west) US (1102832)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Showtime (west) US (1102832)
 https://api.vpnmate.com/play/?vlc=1&channel=1102832&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Showtime 2 (east) US (1018262)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Showtime 2 (east) US (1018262)
 https://api.vpnmate.com/play/?vlc=1&channel=1018262&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Showtime 2 (west) US (1018261)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Showtime 2 (west) US (1018261)
 https://api.vpnmate.com/play/?vlc=1&channel=1018261&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Showtime Beyond US (1102879)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Showtime Beyond US (1102879)
 https://api.vpnmate.com/play/?vlc=1&channel=1102879&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Showtime Extreme (1018260)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Showtime Extreme (1018260)
 https://api.vpnmate.com/play/?vlc=1&channel=1018260&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Showtime Family Zone (East) (1102880)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Showtime Family Zone (East) (1102880)
 https://api.vpnmate.com/play/?vlc=1&channel=1102880&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Showtime Showcase US (1018258)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Showtime Showcase US (1018258)
 https://api.vpnmate.com/play/?vlc=1&channel=1018258&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Showtime Woman US (1102881)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Showtime Woman US (1102881)
 https://api.vpnmate.com/play/?vlc=1&channel=1102881&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Smithsonian Channel (5016067)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Smithsonian Channel (5016067)
 https://api.vpnmate.com/play/?vlc=1&channel=5016067&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Smithsonian Channel (1023637)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Smithsonian Channel (1023637)
 https://api.vpnmate.com/play/?vlc=1&channel=1023637&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Start TV (3005887)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Start TV (3005887)
 https://api.vpnmate.com/play/?vlc=1&channel=3005887&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Starz (East) (3005856)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Starz (East) (3005856)
 https://api.vpnmate.com/play/?vlc=1&channel=3005856&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Starz (East) (1018247)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Starz (East) (1018247)
 https://api.vpnmate.com/play/?vlc=1&channel=1018247&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Starz (West) (3005855)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Starz (West) (3005855)
 https://api.vpnmate.com/play/?vlc=1&channel=3005855&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Starz Cinema US (200536)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Starz Cinema US (200536)
 https://api.vpnmate.com/play/?vlc=1&channel=200536&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Starz Comedy (East) (1018254)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Starz Comedy (East) (1018254)
 https://api.vpnmate.com/play/?vlc=1&channel=1018254&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Starz Comedy US (200535)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Starz Comedy US (200535)
 https://api.vpnmate.com/play/?vlc=1&channel=200535&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Starz Edge (West) US (232558)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Starz Edge (West) US (232558)
 https://api.vpnmate.com/play/?vlc=1&channel=232558&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Starz Edge US (1018253)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Starz Edge US (1018253)
 https://api.vpnmate.com/play/?vlc=1&channel=1018253&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Starz Edge US (204800)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Starz Edge US (204800)
 https://api.vpnmate.com/play/?vlc=1&channel=204800&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Starz Encore (East) (1018252)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Starz Encore (East) (1018252)
 https://api.vpnmate.com/play/?vlc=1&channel=1018252&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Starz Encore US (200468)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Starz Encore US (200468)
 https://api.vpnmate.com/play/?vlc=1&channel=200468&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Starz In Black (1105194)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Starz In Black (1105194)
 https://api.vpnmate.com/play/?vlc=1&channel=1105194&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Starz Kids Family US (1018250)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Starz Kids Family US (1018250)
 https://api.vpnmate.com/play/?vlc=1&channel=1018250&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Starz Suspense (East) (1018248)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Starz Suspense (East) (1018248)
 https://api.vpnmate.com/play/?vlc=1&channel=1018248&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Starz Westerns US (1102883)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Starz Westerns US (1102883)
 https://api.vpnmate.com/play/?vlc=1&channel=1102883&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,SundanceTV (5025179)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",SundanceTV (5025179)
 https://api.vpnmate.com/play/?vlc=1&channel=5025179&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,SundanceTV (1018245)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",SundanceTV (1018245)
 https://api.vpnmate.com/play/?vlc=1&channel=1018245&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,SYFY (5013460)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",SYFY (5013460)
 https://api.vpnmate.com/play/?vlc=1&channel=5013460&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,SYFY (200598)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",SYFY (200598)
 https://api.vpnmate.com/play/?vlc=1&channel=200598&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,SYFY (6063)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",SYFY (6063)
 https://api.vpnmate.com/play/?vlc=1&channel=6063&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,SYFY (3005894)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",SYFY (3005894)
 https://api.vpnmate.com/play/?vlc=1&channel=3005894&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,TBS (5005375)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",TBS (5005375)
 https://api.vpnmate.com/play/?vlc=1&channel=5005375&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,TBS (200576)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",TBS (200576)
 https://api.vpnmate.com/play/?vlc=1&channel=200576&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,TCM (5010510)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",TCM (5010510)
 https://api.vpnmate.com/play/?vlc=1&channel=5010510&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,TeenNick US (1023814)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",TeenNick US (1023814)
 https://api.vpnmate.com/play/?vlc=1&channel=1023814&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,The Weather Channel US (1018226)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",The Weather Channel US (1018226)
 https://api.vpnmate.com/play/?vlc=1&channel=1018226&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,The Weather Channel US (3005796)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",The Weather Channel US (3005796)
 https://api.vpnmate.com/play/?vlc=1&channel=3005796&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,ThrillerMax (East) (200534)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",ThrillerMax (East) (200534)
 https://api.vpnmate.com/play/?vlc=1&channel=200534&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,TLC (5002755)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",TLC (5002755)
 https://api.vpnmate.com/play/?vlc=1&channel=5002755&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,TLC US (203903)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",TLC US (203903)
 https://api.vpnmate.com/play/?vlc=1&channel=203903&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,TNT (5024998)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",TNT (5024998)
 https://api.vpnmate.com/play/?vlc=1&channel=5024998&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,TNT US (200525)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",TNT US (200525)
 https://api.vpnmate.com/play/?vlc=1&channel=200525&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Travel (200993)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Travel (200993)
 https://api.vpnmate.com/play/?vlc=1&channel=200993&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Travel Channel (5025081)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Travel Channel (5025081)
 https://api.vpnmate.com/play/?vlc=1&channel=5025081&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,truTV (5025030)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",truTV (5025030)
 https://api.vpnmate.com/play/?vlc=1&channel=5025030&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,truTV (200634)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",truTV (200634)
 https://api.vpnmate.com/play/?vlc=1&channel=200634&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Tv Land US (212307)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Tv Land US (212307)
 https://api.vpnmate.com/play/?vlc=1&channel=212307&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,TV One (1018228)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",TV One (1018228)
 https://api.vpnmate.com/play/?vlc=1&channel=1018228&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Universal Kids US (6076)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Universal Kids US (6076)
 https://api.vpnmate.com/play/?vlc=1&channel=6076&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,UP (1124596)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",UP (1124596)
 https://api.vpnmate.com/play/?vlc=1&channel=1124596&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,USA (5025078)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",USA (5025078)
 https://api.vpnmate.com/play/?vlc=1&channel=5025078&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,USA Network (East) (1018221)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",USA Network (East) (1018221)
 https://api.vpnmate.com/play/?vlc=1&channel=1018221&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,USA Network (West) (1023819)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",USA Network (West) (1023819)
 https://api.vpnmate.com/play/?vlc=1&channel=1023819&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,VH1 US (200539)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",VH1 US (200539)
 https://api.vpnmate.com/play/?vlc=1&channel=200539&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,VH1 US (3005907)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",VH1 US (3005907)
 https://api.vpnmate.com/play/?vlc=1&channel=3005907&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,Viceland US (200434)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",Viceland US (200434)
 https://api.vpnmate.com/play/?vlc=1&channel=200434&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,WE TV (200521)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",WE TV (200521)
 https://api.vpnmate.com/play/?vlc=1&channel=200521&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,World Fishing Network (3005998)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",World Fishing Network (3005998)
 https://api.vpnmate.com/play/?vlc=1&channel=3005998&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,WPIX New York (3008162)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",WPIX New York (3008162)
 https://api.vpnmate.com/play/?vlc=1&channel=3008162&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:0,LAFF TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",LAFF TV
 http://71.112.178.115:9981/stream/channelid/581331773
-#EXTINF:0,MUSIC CHOICE
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="USA CHANNELS",MUSIC CHOICE
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:0,PLAYBOY FULL HD XxX
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PPV",CINEMA 24
+http://iptv.wtf:25461/feligfra/bkQ5k2r9A2/8529
+#EXTINF:-1 group-title="PPV",CINEMA 12
+http://10dollars.live:8080/DWmpS59r9/ironpony58/77648
+#EXTINF:-1 group-title="PPV",EVENTS 4
+https://api.vpnmate.com/play/?vlc=1&channel=264962&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
+#EXTINF:-1 group-title="PPV",EVENTS 3
+https://api.vpnmate.com/play/?vlc=1&channel=264963&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
+#EXTINF:-1 group-title="PPV",PPV 7
+https://api.vpnmate.com/play/?vlc=1&channel=1106488&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
+#EXTINF:-1 group-title="PPV",PPV 8
+https://api.vpnmate.com/play/?vlc=1&channel=1106487&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
+#EXTINF:-1 group-title="PPV",PPV 9
+https://api.vpnmate.com/play/?vlc=1&channel=1106486&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
+#EXTINF:-1 group-title="XxX CHANNELS",PLAYBOY FULL HD XxX
 http://deluxeplay.live:80/uqviuunk/Yv4Ino625z/18932
-#EXTINF:0,XXX STARS HD XxX
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="XxX CHANNELS",XXX STARS HD XxX
 http://predator-ott.com:8000/GJY19459/3WHJ6xHXf6/55295
-#EXTINF:0,Hustler TV XxX
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="XxX CHANNELS",Hustler TV XxX
 http://network-star.com:25461/LuisMPulido820290/XH7waIO1Qk/20722
-#EXTINF:0,PassieXXX XxX
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="XxX CHANNELS",PassieXXX XxX
 http://barontv.hopto.me:8080/FatBet/yNwhoC7zGj/13589
-#EXTINF:0,Dorcel XxX
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="XxX CHANNELS",Dorcel XxX
 http://predator-ott.com:8000/GJY19459/3WHJ6xHXf6/55329
-#EXTINF:0,JasminTV XxX
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="XxX CHANNELS",JasminTV XxX
 http://iptv-area-51.tv:2095/kenbob/G0uJa7fi11/7635
-#EXTINF:0,Adult Cams XxX
-#EXTVLCOPT:network-caching=1000
-http://iptvworld.nl:2095/fdtw5M4cuw/ZcNrmvzRVR/15563
-#EXTINF:0,JulezJordan XxX
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="XxX CHANNELS",JulezJordan XxX
 http://lupen2019.dyndns.tv:10219/live/sannamauro/ahMCDRK4fb/7658.ts
