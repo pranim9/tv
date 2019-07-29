@@ -136,15 +136,24 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225875/index.m3u8
 #EXTINF:-1, group-title="Airtel", A-Sony Ten 2
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226077/index.m3u8
 
-#EXTINF:-1, group-title="Airtel", A-Sony Ten 3
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226330/index.m3u8
 
 #EXTINF:-1, group-title="Airtel", A-Sony Six
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225780/index.m3u8
 
-#EXTINF:-1, group-title="Airtel", A-ESPN HD
+#EXTINF:-1, group-title="Airtel", A-ESPN
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226076/index.m3u8
 
+#EXTINF:-1, group-title="Airtel", A-Discovery Kids
+http://mhms10.airtel.tv/PLTV/88888888/224/3221226494/index.m3u8
+
+#EXTINF:-1, group-title="Airtel", A-Sony BBC Earth
+https://live.airtel.tv/sonybbcearthhd/smil:common.smil/playlist.m3u8
+
+#EXTINF:-1, group-title="Airtel", A-Traval XP
+http://cshms2.airtel.tv/PLTV/88888888/224/3221225813/index.m3u8
+
+#EXTINF:-1, group-title="Airtel", A-AXN
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226443/index.m3u8
 
 
 
@@ -154,7 +163,8 @@ http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
 #EXTINF:-1, group-title="Hotstar", Star Sports1
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/master_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 
-
+#EXTINF:-1, group-title="Hotstar", Movies Ok
+http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8
 
 
 #EXTINF:-1, group-title="YuppTv", Sun Life
