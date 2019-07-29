@@ -117,8 +117,12 @@ http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_First
 #EXTINF:-1, group-title="JioTV", Sony Six
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Six_HD/Six_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
-#EXTINF:-1, group-title="JioTV", Sony Espn
-http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_ESPN_Telugu_SD/Sony_ESPN_Telugu_SD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:-1, group-title="JioTV", DD Sports
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Sports/DD_Sports_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1, group-title="JioTV", DSports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
 
 #EXTINF:-1, group-title="Airtel", A-SUN TV
 https://live.airtel.tv/suntv/smil:common.smil/chunklist_b364000_sleng.m3u8
@@ -126,19 +130,20 @@ https://live.airtel.tv/suntv/smil:common.smil/chunklist_b364000_sleng.m3u8
 #EXTINF:-1, group-title="Airtel", A-SUN Life
 http://live.airtel.tv/sunlife/smil:common.smil/chunklist_b896000_sleng.m3u8
 
-#EXTINF:-1, group-title="Airtel", A-K TV
+#EXTINF:-1, group-title="Airtel", A-Sony Ten 1
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225875/index.m3u8
 
-https://live.airtelxstream.in/ktv/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1, group-title="Airtel", A-Sony Ten 2
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226077/index.m3u8
 
-#EXTINF:-1, group-title="Airtel", A-Zee Tamil
-https://live.airtelxstream.in/zeetamil/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1, group-title="Airtel", A-Sony Ten 3
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226330/index.m3u8
 
-#EXTINF:-1, group-title="Airtel", A-SUN Music
-https://live.airtelxstream.in/sunmusic/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1, group-title="Airtel", A-Sony Six
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225780/index.m3u8
 
-#EXTINF:-1, group-title="Airtel", A-Raj TV
-
-https://live.airtelxstream.in/rajtv/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1, group-title="Airtel", A-ESPN HD
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226076/index.m3u8
 
 
 
