@@ -165,6 +165,9 @@ http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/m
 #EXTINF:-1, group-title="Hotstar", Movies Ok
 http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8
 
+#EXTINF:-1, group-title="Hotstar", History uk
+http://satsni.club:34656/tester123/tester123/46314
+
 
 #EXTINF:-1, group-title="YuppTv", Sun Life
 https://ylive63-i.akamaihd.net/hls/live/691646/sunlife/sunlife_2000/chunklist.m3u8
