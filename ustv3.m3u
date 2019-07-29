@@ -195,6 +195,8 @@ https://api.vpnmate.com/play/?vlc=1&channel=200551&token=Bdf4vqpoh8_R:ODFiMDEyNj
 https://api.vpnmate.com/play/?vlc=1&channel=6077&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 #EXTINF:-1 group-title="USA CHANNELS",Fox Sports 1 (5025039)
 https://api.vpnmate.com/play/?vlc=1&channel=5025039&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 group-title="USA CHANNELS",Fox Movies
+http://cineplus.adetroniktv.com:8000/VelaSoft/hDZDEWo33I/133
 #EXTINF:-1 group-title="USA CHANNELS",Freeform (3005892)
 https://api.vpnmate.com/play/?vlc=1&channel=3005892&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 #EXTINF:-1 group-title="USA CHANNELS",FUSE TV (West) (3005891)
@@ -489,10 +491,20 @@ https://api.vpnmate.com/play/?vlc=1&channel=3008162&token=Bdf4vqpoh8_R:ODFiMDEyN
 http://71.112.178.115:9981/stream/channelid/581331773
 #EXTINF:-1 group-title="USA CHANNELS",MUSIC CHOICE
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 group-title="WWE",WWE Network (1018210)
+https://api.vpnmate.com/play/?vlc=1&channel=1018210&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
 #EXTINF:-1 group-title="PPV",CINEMA 24
 http://iptv.wtf:25461/feligfra/bkQ5k2r9A2/8529
 #EXTINF:-1 group-title="PPV",CINEMA 12
 http://10dollars.live:8080/DWmpS59r9/ironpony58/77648
+#EXTINF:-1 group-title="PPV",CINEMA 00
+http://www.pandar.tv:25461/028662264928/8PZXuUvs3UjBLlg/18633
+#EXTINF:-1 group-title="PPV",CINEMA 03
+http://iptvaction.xyz:8080/EYrXFsIBY6/xfFnTHIeGa/77657
+#EXTINF:-1 group-title="PPV",CINEMA 09
+http://tv.latintvweb.com:25461/garciar/pmGp3U9GhN/17147
+#EXTINF:-1 group-title="PPV",CINEMA 16
+http://iptv.wtf:25461/feligfra/bkQ5k2r9A2/8537
 #EXTINF:-1 group-title="PPV",EVENTS 4
 https://api.vpnmate.com/play/?vlc=1&channel=264962&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
 #EXTINF:-1 group-title="PPV",EVENTS 3
@@ -503,17 +515,59 @@ https://api.vpnmate.com/play/?vlc=1&channel=1106488&token=XXO2KFZn35M9:OWU0NGZkY
 https://api.vpnmate.com/play/?vlc=1&channel=1106487&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
 #EXTINF:-1 group-title="PPV",PPV 9
 https://api.vpnmate.com/play/?vlc=1&channel=1106486&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
+#EXTINF:-1 group-title="UFC",FIGHT PASS
+http://watch.gotdark.com:80/kelboomh@xs4all.nl/IkloginbijGetDark21/2438
+#EXTINF:-1 group-title="UFC",UFC NETWORK
+http://rocksat.ddns.net:25461/wE17OeGqM9/5ABmkVO69C/21621
+#EXTINF:-1 group-title="UFC",UFC PPV
+http://jammy.today:83/live/ByN90XRm/0KBtjG3k/363854.m3u8
 #EXTINF:-1 group-title="XxX CHANNELS",PLAYBOY FULL HD XxX
-http://deluxeplay.live:80/uqviuunk/Yv4Ino625z/18932
+http://88.9.178.254:8000/play/a03t
+#EXTINF:-1 group-title="XxX CHANNELS",PLAYBOY FULL HD (2) XxX
+http://iptv.rent:8080/jn7pejcive/px3not2pb/19674
 #EXTINF:-1 group-title="XxX CHANNELS",XXX STARS HD XxX
 http://predator-ott.com:8000/GJY19459/3WHJ6xHXf6/55295
 #EXTINF:-1 group-title="XxX CHANNELS",Hustler TV XxX
 http://network-star.com:25461/LuisMPulido820290/XH7waIO1Qk/20722
+#EXTINF:-1 group-title="XxX CHANNELS",Hot Club XxX
+http://ch.novilka.net:8000/ash66frd/hu267tjx/5203
 #EXTINF:-1 group-title="XxX CHANNELS",PassieXXX XxX
 http://barontv.hopto.me:8080/FatBet/yNwhoC7zGj/13589
 #EXTINF:-1 group-title="XxX CHANNELS",Dorcel XxX
-http://predator-ott.com:8000/GJY19459/3WHJ6xHXf6/55329
+http://fantastik.homeftp.net:8080/Fabio_goncalves/METPku7rDu/48648
+#EXTINF:-1 group-title="XxX CHANNELS",LeoTV XxX
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1562
 #EXTINF:-1 group-title="XxX CHANNELS",JasminTV XxX
 http://iptv-area-51.tv:2095/kenbob/G0uJa7fi11/7635
+#EXTINF:-1 group-title="XxX CHANNELS",Penthouse Quickies XxX
+http://hide.userportal.live:8080/gc1sF0mCUz/SdRwZeatUO/13582
+#EXTINF:-1 group-title="XxX CHANNELS",Penthouse Passion XxX
+http://portal.iptvgator.com:8080/euGLAZC5gZ/WhpZTHfczm/108777
+#EXTINF:-1 group-title="XxX CHANNELS",Penthouse Gold XxX
+http://iptv.wtf:80/kmykiufx/7h1r4P2Drj/16510
+#EXTINF:-1 group-title="XxX CHANNELS",Pinko TV XxX
+http://m3u.iptvstreaming.org:25461/flagello88@msn.com/hw4bxjrjif3nqbj3tt8i/97
 #EXTINF:-1 group-title="XxX CHANNELS",JulezJordan XxX
 http://lupen2019.dyndns.tv:10219/live/sannamauro/ahMCDRK4fb/7658.ts
+#EXTINF:-1 group-title="XxX CHANNELS",Bangerz XxX
+http://premium-ott.com:8000/FUZerFNC/hJ8hwA9J/22820
+#EXTINF:-1 group-title="XxX CHANNELS",HotClub 11 XxX
+http://ch.novilka.net:8000/u2wkhsnw/4agQDBBLjL/5199
+#EXTINF:-1 group-title="XxX CHANNELS",Hot TV XxX
+http://tv.sensustv.xdns.pro:80/live/fb2Sense/eoIuYX34/15894.ts
+#EXTINF:-1 group-title="XxX CHANNELS",Lesbian Affair XxX
+http://zktv.site:15461/z7071/wwmac/24803
+#EXTINF:-1 group-title="XxX CHANNELS",Sexy Hot XxX
+http://tv.factoryiptv.com:80/UGY3WFK5dy/factoryiptv/37009
+#EXTINF:-1 group-title="XxX CHANNELS",Balkan Erotic XxX
+http://tv.sensustv.xdns.pro:80/live/fb2Sense/eoIuYX34/19024.ts
+#EXTINF:-1 group-title="XxX CHANNELS",Hot Channel XxX
+http://tv.iptvking.iptv.uno:80/live/hb0bEMf421/FGWGU7385/15914.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS",Euro XXX XxX
+http://tv.sensustv.xdns.pro:80/live/fb2Sense/eoIuYX34/19025.ts
+#EXTINF:-1 group-title="XxX VOD",Amateure Lesbos XxX
+http://iptv.rent:8080/movie/qno7vdte29/cpkn8vkyoe/49623.mp4
+#EXTINF:-1 group-title="XxX VOD",Elegant Angel XxX
+http://iptvw.net:8080/movie/janaarni2/t3ngKe5F71/16657.mp4
+#EXTINF:-1 group-title="XxX VOD",Alina & Sasha XxX
+http://globiptv.com:8000/movie/CLIENTW982/KzqKaK6rwg/4443.mp4
