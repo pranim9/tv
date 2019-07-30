@@ -126,7 +126,7 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_HD_World_1200.m3u
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Animal_Planet_HD_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1, group-title="JioTV", TLC
-http://gdcsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TLC_HD_World_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TLC_HD_World_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1, group-title="JioTV", FYI
 http://gdcsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/FYI_TV18/FYI_TV18_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
