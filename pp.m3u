@@ -119,6 +119,21 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Six_HD/Six_HD_1200.m3u8?jct
 #EXTINF:-1, group-title="JioTV", DD Sports
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Sports/DD_Sports_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
+#EXTINF:-1, group-title="JioTV", Discovery
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_HD_World/Discovery_HD_World_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1, group-title="JioTV", Animal Planet
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Animal_Planet_HD/Animal_Planet_HD_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1, group-title="JioTV", TLC
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TLC_HD_World/TLC_HD_World_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1, group-title="JioTV", FYI TV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/FYI_TV18/FYI_TV18_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1, group-title="JioTV", Angel
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Angel_TV_HD/Angel_TV_HD_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
 #EXTINF:-1, group-title="JioTV", DSports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
@@ -134,7 +149,6 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225875/index.m3u8
 
 #EXTINF:-1, group-title="Airtel", A-Sony Ten 2
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226077/index.m3u8
-
 
 #EXTINF:-1, group-title="Airtel", A-Sony Six
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225780/index.m3u8
@@ -378,4 +392,3 @@ http://gdcsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sun_TV_HD/Sun_TV_HD_1200.m3
 
 #EXTINF:-1, group-title="Test", Test History
 http://www.sansat.net:25461/6yong314/N8r3cqKaXE/24140
-
