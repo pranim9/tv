@@ -116,8 +116,17 @@ http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_First
 #EXTINF:-1, group-title="JioTV", Sony Six
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Six_HD/Six_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
-#EXTINF:-1, group-title="JioTV", Ten
+#EXTINF:-1, group-title="JioTV", Ten 1
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_HD/Ten_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1, group-title="JioTV", Ten 2
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten2_HD/Ten2_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1, group-title="JioTV", Ten 3
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten3_HD/Ten3_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1, group-title="JioTV", Sony ESPN
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_ESPN_HD/Sony_ESPN_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1, group-title="JioTV", DD Sports
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Sports/DD_Sports_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
