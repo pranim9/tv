@@ -1,4 +1,5 @@
 #EXTM3U
+#My Channels
 #EXTINF:-1 group-title="USA CHANNELS",A&E US (1018515)
 https://api.vpnmate.com/play/?vlc=1&channel=1018515&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
 #EXTINF:-1 group-title="USA CHANNELS",A&E US (200410)
@@ -487,16 +488,22 @@ https://api.vpnmate.com/play/?vlc=1&channel=200521&token=5gZJiWm1Vxhv:YjU4NjU0Yj
 https://api.vpnmate.com/play/?vlc=1&channel=3005998&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
 #EXTINF:-1 group-title="USA CHANNELS",WPIX New York (3008162)
 https://api.vpnmate.com/play/?vlc=1&channel=3008162&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
-#EXTINF:-1 group-title="USA CHANNELS",LAFF TV
-http://71.112.178.115:9981/stream/channelid/581331773
+#EXTINF:-1 group-title="USA CHANNELS",HD MOVIE NETWORK
+https://nl2.streamlive.to/vlc/3mu6xhoy4xa8l7w/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMTkgODoxMToxNiBBTSZoYXNoX3ZhbHVlPVROTGV5UzloZnEvVXNsc254YXFrSHc9PSZ2YWxpZG1pbnV0ZXM9NjAmc3RybV9sZW49MTkmaWQ9MA==
 #EXTINF:-1 group-title="USA CHANNELS",MUSIC CHOICE
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 group-title="24/7",HOLYWOOD SUITE
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="24/7",HORROR 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="24/7",FAMILY GUY
+http://62.210.70.119:80/live.ts?channelId=424&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 group-title="24/7",SIMPSONS
+http://hhhshop.co:83/3QpVC7EG/U6Daaz7G/268820
+#EXTINF:-1 group-title="24/7",LOONEY TOONS
+http://tvpremiumhd.club/lista-gratuita/153005/tv/live.php?id=2173
 #EXTINF:-1 group-title="WWE",WWE Network (1018210)
 https://api.vpnmate.com/play/?vlc=1&channel=1018210&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
-#EXTINF:-1 group-title="LOCAL NEWS",NBC 12
-http://api.new.livestream.com/accounts/11203782/events/3629264/broadcasts/194528113.m3u8?dw=80&hdnea=st=1564798857~exp=1564800657~acl=/i/11203782_3629264_lsi2nbocfi1buucpci3_1@689026/*~hmac=b47453d14708979e3893d45c365d1c502f01734f50170bd1f4d8aa68a78e40bc&token=5d44f0b5_581a99793f20dfa5eec53814dcd49a091745ae03
-#EXTINF:-1 group-title="LOCAL NEWS",WCYB 5
-https://content.uplynk.com/d9e128b50daf4e51b6c3f63d04ca7b33.m3u8?tc=1&exp=1564888193&rn=217333&ct=a&cid=d9e128b50daf4e51b6c3f63d04ca7b33&sig=3c8078fdf06a03478a6ce454710b9f49565b517cc81b64db25a175677f6801ed
 #EXTINF:-1 group-title="MUSIC",KEEP IT COUNTRY
 http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
 #EXTINF:-1 group-title="MUSIC",THE COUNTRY NETWORK
@@ -601,6 +608,8 @@ http://live.redtraffic.xyz/milf.m3u8
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1 group-title="XxX CHANNELS",Xpanded TV
 https://vod2t.xxxpanded.com/x3tv2/640/index_640.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS",MOM KNOWS BEST
+http://tv.ultraiptv.org:80/jfakuxop/r603h6tYFg/20205
 #EXTINF:-1 group-title="XxX VOD",Amateure Lesbos
 http://iptv.rent:8080/movie/qno7vdte29/cpkn8vkyoe/49623.mp4
 #EXTINF:-1 group-title="XxX VOD",Elegant Angel
