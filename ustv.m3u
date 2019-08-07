@@ -1,11 +1,16 @@
 #EXTM3U
 
-
-Category 5 Entertainment
-
 #EXTINF:0 tvg-id="SET  HD" group-title="Tamil" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",a.203. Colors_HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer
 http://ambdsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Tamil_HD/Colors_Tamil_HD_JSRV9_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:0 tvg-id="SET  HD" group-title="Tamil" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV.png",a.203. Sun_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer
+http://ambdsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sun_TV_HD/Sun_TV_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:0 tvg-id="SET  HD" group-title="Tamil" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png",a.203.Vijay_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer
+http://ambdsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Vijay/Star_Vijay_JSRV2_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:0 tvg-id="SET  HD" group-title="Hindi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",a.201. Sony_HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer
