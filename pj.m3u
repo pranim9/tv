@@ -1,0 +1,95 @@
+#EXTM3U
+ 
+ 
+ 
+#EXTINF:-1, group-title="Tamil" tvg-logo="http://smumcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png" , Star Vijay (Jio)
+http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starvijay/master_1200.m3u8|user-agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
+ 
+
+#EXTINF:-1, group-title="Tamil" tvg-logo="http://smumcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png" , Star Vijay (HS)
+http://starvijay-i.akamaihd.net/hls/live/569909-b/starvijay/master_1200.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
+
+
+#EXTINF:-1, group-title="Tamil" tvg-logo="http://smumcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" , Zee Tamil
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetamil/index.m3u8
+http://zee18.site/zee/get.php?channel=zeetamil
+
+
+#EXTINF:-1, group-title="Tamil" , Zee Thirai
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zthirai/index.m3u8
+http://zee18.site/zee/get.php?channel=zthirai
+
+
+ 
+#EXTINF:-1, group-title="English" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png", BBC Earth
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?&__nn__=5606168722001&hdnea=st=1580619600~exp=1580623200~acl=/hls/live/2011907/SonyBBCEarthHD/*~hmac=ec57c7179dc6689cc7a25f693daa6564a9283ca7d05a94db13689c2287bbd63b|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+ 
+#EXTINF:-1, group-title="English" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png", Sony Pix
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?&__nn__=5606168722001&hdnea=st=1580619600~exp=1580623200~acl=/hls/live/2011748/PIXHD/*~hmac=87e6df19a05727c5289c2b40890b23eb2d0d4ef85415e75ef0ff29861c7a2b6b|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+
+
+ 
+#EXTINF:-1, group-title="English" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AXN_HD.png, AXN
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?&__nn__=5606168722001&hdnea=st=1580619600~exp=1580623200~acl=/hls/live/2011747/AXNHD/*~hmac=73b5e3d938e6945029721a58856ab0dab5326a6a324d6c8158953a1e67080975|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+ 
+
+#EXTINF:-1, group-title="English", Andflix
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
+http://zee18.site/zee/get.php?channel=andflixhd
+
+#EXTINF:-1, group-title="English", Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36"
+
+#EXTINF:-1, group-title="English", MNX
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36"
+
+#EXTINF:-1, group-title="English", Remdy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36"
+
+
+ 
+#EXTINF:-1, group-title="English", History 2
+http://livecdnh1.tvanywhere.ae/hls/h2/04.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+ 
+#EXTINF:-1, group-title="English", Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+ 
+#EXTINF:-1, group-title="English", Star Movies 
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+ 
+ 
+#EXTINF:-1, group-title="English", Nat Geo People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+ 
+#EXTINF:-1, group-title="English", Nat Geo
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+ 
+#EXTINF:-1, group-title="English", Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1, group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png", Ten1
+https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1577608200_08a723ee5e79f43350587d768f071795/master_412.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+ 
+#EXTINF:-1, group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png", Ten2
+https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1577608200_08a723ee5e79f43350587d768f071795/master_412.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+ 
+#EXTINF:-1, group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png", Ten3
+https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1577608200_08a723ee5e79f43350587d768f071795/master_412.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+ 
+#EXTINF:-1, group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png", Sony Six
+https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1577608200_08a723ee5e79f43350587d768f071795/master_412.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+ 
+#EXTINF:-1, group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_ESPN_HD.png", Sony ESPN
+https://sony247channels.akamaized.net/hls/live/2004800/SONYESPNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1577608200_08a723ee5e79f43350587d768f071795/master_412.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+
+#EXTINF:-1, group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png", D Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+
+
+#EXTINF:-1, group-title="Sports" SKY cRICKERT
+http://iptvhit.live/satsup/BEIN/BEIN/6651
